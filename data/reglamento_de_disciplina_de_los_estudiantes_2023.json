@@ -1,122 +1,122 @@
 [
     {
-        "Pregunta": "¿Cuál es el propósito del Reglamento de Disciplina de los Estudiantes de la Universidad de Ingeniería y Tecnología?",
-        "Respuesta": "El Reglamento regula los aspectos disciplinarios de los estudiantes matriculados en cualquier modalidad de estudios y los procedimientos disciplinarios asociados."
+        "pregunta": "¿Cuál es el propósito del Reglamento de Disciplina de los Estudiantes de la Universidad de Ingeniería y Tecnología?",
+        "respuesta": "El Reglamento regula los aspectos disciplinarios de los estudiantes matriculados en cualquier modalidad de estudios y los procedimientos disciplinarios asociados."
     },
     {
-        "Pregunta": "¿A quién aplica el Reglamento de Disciplina de los Estudiantes?",
-        "Respuesta": "El Reglamento es de cumplimiento obligatorio para todos los estudiantes, ingresantes, docentes, personal administrativo y autoridades de UTEC, y se aplica también en situaciones como representaciones externas de UTEC y programas de intercambio académico."
+        "pregunta": "¿A quién aplica el Reglamento de Disciplina de los Estudiantes?",
+        "respuesta": "El Reglamento es de cumplimiento obligatorio para todos los estudiantes, ingresantes, docentes, personal administrativo y autoridades de UTEC, y se aplica también en situaciones como representaciones externas de UTEC y programas de intercambio académico."
     },
     {
-        "Pregunta": "¿Qué significa 'Agresión' según el Reglamento?",
-        "Respuesta": "La 'Agresión' se define como el acto de atentar contra la integridad física o moral de las personas o instituciones."
+        "pregunta": "¿Qué significa 'Agresión' según el Reglamento?",
+        "respuesta": "La 'Agresión' se define como el acto de atentar contra la integridad física o moral de las personas o instituciones."
     },
     {
-        "Pregunta": "¿Cuáles son algunos de los derechos de los estudiantes según el Reglamento?",
-        "Respuesta": "Los derechos de los estudiantes incluyen ser tratados con dignidad y respeto, recibir una formación universitaria de calidad, acceder a documentos normativos, conocer resultados de evaluaciones y utilizar los servicios e instrumentos de UTEC."
+        "pregunta": "¿Cuáles son algunos de los derechos de los estudiantes según el Reglamento?",
+        "respuesta": "Los derechos de los estudiantes incluyen ser tratados con dignidad y respeto, recibir una formación universitaria de calidad, acceder a documentos normativos, conocer resultados de evaluaciones y utilizar los servicios e instrumentos de UTEC."
     },
     {
-        "Pregunta": "¿Cuáles son los deberes de los estudiantes según el Reglamento?",
-        "Respuesta": "Los deberes incluyen tener un buen comportamiento, practicar los valores de UTEC, respetar los derechos de UTEC y sus miembros, representar adecuadamente a UTEC, abstenerse de actividades políticas en UTEC y evitar actos contrarios a la moral."
+        "pregunta": "¿Cuáles son los deberes de los estudiantes según el Reglamento?",
+        "respuesta": "Los deberes incluyen tener un buen comportamiento, practicar los valores de UTEC, respetar los derechos de UTEC y sus miembros, representar adecuadamente a UTEC, abstenerse de actividades políticas en UTEC y evitar actos contrarios a la moral."
     },
     {
-        "Pregunta": "¿Qué constituyen las 'Faltas' según el Reglamento?",
-        "Respuesta": "Las 'Faltas' son acciones u omisiones que afectan la buena convivencia y el desarrollo normal de las clases en UTEC, como la inasistencia injustificada a clases, uso indebido de dispositivos electrónicos y consumo de alimentos en lugares prohibidos."
+        "pregunta": "¿Qué constituyen las 'Faltas' según el Reglamento?",
+        "respuesta": "Las 'Faltas' son acciones u omisiones que afectan la buena convivencia y el desarrollo normal de las clases en UTEC, como la inasistencia injustificada a clases, uso indebido de dispositivos electrónicos y consumo de alimentos en lugares prohibidos."
     },
     {
-        "Pregunta": "¿Qué es una 'Infracción leve' según el Reglamento?",
-        "Respuesta": "Una 'Infracción leve' incluye actividades como comercializar artículos no autorizados en UTEC, participar en juegos de apuesta, y acceder sin autorización a lugares restringidos."
+        "pregunta": "¿Qué es una 'Infracción leve' según el Reglamento?",
+        "respuesta": "Una 'Infracción leve' incluye actividades como comercializar artículos no autorizados en UTEC, participar en juegos de apuesta, y acceder sin autorización a lugares restringidos."
     },
     {
-        "Pregunta": "¿Qué se considera una 'Infracción grave'?",
-        "Respuesta": "Una 'Infracción grave' abarca acciones como recibir clases remuneradas de profesores de UTEC fuera de la institución, promover desorden o actividades ilegales y dañar las instalaciones o bienes de UTEC."
+        "pregunta": "¿Qué se considera una 'Infracción grave'?",
+        "respuesta": "Una 'Infracción grave' abarca acciones como recibir clases remuneradas de profesores de UTEC fuera de la institución, promover desorden o actividades ilegales y dañar las instalaciones o bienes de UTEC."
     },
     {
-        "Pregunta": "¿Cuáles son ejemplos de 'Infracción muy grave'?",
-        "Respuesta": "Las 'Infracciones muy graves' incluyen la obtención y comercialización de contenido de evaluaciones, suplantación en evaluaciones, plagio, copia, dañar el prestigio de UTEC, cometer delitos y portar armas o sustancias prohibidas en UTEC."
+        "pregunta": "¿Cuáles son ejemplos de 'Infracción muy grave'?",
+        "respuesta": "Las 'Infracciones muy graves' incluyen la obtención y comercialización de contenido de evaluaciones, suplantación en evaluaciones, plagio, copia, dañar el prestigio de UTEC, cometer delitos y portar armas o sustancias prohibidas en UTEC."
     },
     {
-        "Pregunta": "¿Cómo se manejan los casos de violencia, discriminación y acoso sexual?",
-        "Respuesta": "Estos casos son competencia del Comité de Intervención frente al Hostigamiento Sexual Educativo, que define el inicio de un procedimiento según el 'Protocolo para la Atención de los Casos de Hostigamiento Sexual'."
+        "pregunta": "¿Cómo se manejan los casos de violencia, discriminación y acoso sexual?",
+        "respuesta": "Estos casos son competencia del Comité de Intervención frente al Hostigamiento Sexual Educativo, que define el inicio de un procedimiento según el 'Protocolo para la Atención de los Casos de Hostigamiento Sexual'."
     },
     {
-        "Pregunta": "¿Qué tipos de sanciones pueden imponerse según el Reglamento?",
-        "Respuesta": "Las sanciones pueden ser amonestación, suspensión, separación, y servicio comunitario. Estas varían según la gravedad de la infracción."
+        "pregunta": "¿Qué tipos de sanciones pueden imponerse según el Reglamento?",
+        "respuesta": "Las sanciones pueden ser amonestación, suspensión, separación, y servicio comunitario. Estas varían según la gravedad de la infracción."
     },
     {
-        "Pregunta": "¿Cómo se relacionan las infracciones con las sanciones aplicables?",
-        "Respuesta": "Las infracciones leves se sancionan con amonestación, las graves con suspensión de hasta 2 ciclos académicos, y las muy graves con suspensión de 2 a 4 ciclos o la separación definitiva de UTEC."
+        "pregunta": "¿Cómo se relacionan las infracciones con las sanciones aplicables?",
+        "respuesta": "Las infracciones leves se sancionan con amonestación, las graves con suspensión de hasta 2 ciclos académicos, y las muy graves con suspensión de 2 a 4 ciclos o la separación definitiva de UTEC."
     },
     {
-        "Pregunta": "¿Se aplican las mismas sanciones a colaboradores y cómplices de infracciones?",
-        "Respuesta": "Sí, los colaboradores, instigadores o cómplices reciben las mismas sanciones que el autor de la infracción, aunque UTEC puede imponer una sanción menor según las circunstancias."
+        "pregunta": "¿Se aplican las mismas sanciones a colaboradores y cómplices de infracciones?",
+        "respuesta": "Sí, los colaboradores, instigadores o cómplices reciben las mismas sanciones que el autor de la infracción, aunque UTEC puede imponer una sanción menor según las circunstancias."
     },
     {
-        "Pregunta": "¿Qué se considera como agravantes de una sanción?",
-        "Respuesta": "Los agravantes incluyen no cumplir con sanciones anteriores, reincidencia, actuar con premeditación, obstaculizar la investigación, ocupar un cargo representativo en UTEC y convocar a más personas para cometer una falta."
+        "pregunta": "¿Qué se considera como agravantes de una sanción?",
+        "respuesta": "Los agravantes incluyen no cumplir con sanciones anteriores, reincidencia, actuar con premeditación, obstaculizar la investigación, ocupar un cargo representativo en UTEC y convocar a más personas para cometer una falta."
     },
     {
-        "Pregunta": "¿Qué ofrece el Programa de Proyectos Especiales de UTEC?",
-        "Respuesta": "Este programa permite a los estudiantes sancionados reducir su período de suspensión mediante la aprobación de talleres específicos, siempre y cuando cumplan ciertas condiciones."
+        "pregunta": "¿Qué ofrece el Programa de Proyectos Especiales de UTEC?",
+        "respuesta": "Este programa permite a los estudiantes sancionados reducir su período de suspensión mediante la aprobación de talleres específicos, siempre y cuando cumplan ciertas condiciones."
     },
     {
-        "Pregunta": "¿Cómo se inicia el procedimiento disciplinario en UTEC?",
-        "Respuesta": "El procedimiento disciplinario puede iniciarse de oficio o a solicitud de parte para esclarecer acciones u omisiones que pudieran constituir una infracción."
+        "pregunta": "¿Cómo se inicia el procedimiento disciplinario en UTEC?",
+        "respuesta": "El procedimiento disciplinario puede iniciarse de oficio o a solicitud de parte para esclarecer acciones u omisiones que pudieran constituir una infracción."
     },
     {
-        "Pregunta": "¿Quiénes son las autoridades competentes en el procedimiento disciplinario?",
-        "Respuesta": "Las autoridades competentes incluyen la Secretaría General para infracciones leves, el Decano de Facultad para infracciones graves y muy graves, y el Tribunal Disciplinario para apelaciones."
+        "pregunta": "¿Quiénes son las autoridades competentes en el procedimiento disciplinario?",
+        "respuesta": "Las autoridades competentes incluyen la Secretaría General para infracciones leves, el Decano de Facultad para infracciones graves y muy graves, y el Tribunal Disciplinario para apelaciones."
     },
     {
-        "Pregunta": "¿Qué recursos impugnatorios están disponibles contra las resoluciones disciplinarias?",
-        "Respuesta": "Los estudiantes pueden interponer recursos de apelación o reconsideración contra las resoluciones disciplinarias, los cuales deben ser presentados en un plazo determinado."
+        "pregunta": "¿Qué recursos impugnatorios están disponibles contra las resoluciones disciplinarias?",
+        "respuesta": "Los estudiantes pueden interponer recursos de apelación o reconsideración contra las resoluciones disciplinarias, los cuales deben ser presentados en un plazo determinado."
     },
     {
-        "Pregunta": "¿Cómo se asegura el debido proceso en los procedimientos disciplinarios?",
-        "Respuesta": "El Reglamento asegura el debido proceso a través de la proporcionalidad, razonabilidad, y derecho de defensa del estudiante, incluyendo la posibilidad de ser oído y la fundamentación de las resoluciones."
+        "pregunta": "¿Cómo se asegura el debido proceso en los procedimientos disciplinarios?",
+        "respuesta": "El Reglamento asegura el debido proceso a través de la proporcionalidad, razonabilidad, y derecho de defensa del estudiante, incluyendo la posibilidad de ser oído y la fundamentación de las resoluciones."
     },
     {
-        "Pregunta": "¿Qué consideraciones se deben tener en cuenta al aplicar sanciones?",
-        "Respuesta": "Al aplicar sanciones, se deben considerar aspectos como la gravedad del caso, la reincidencia, la premeditación, y la posición del estudiante dentro de UTEC, entre otros."
+        "pregunta": "¿Qué consideraciones se deben tener en cuenta al aplicar sanciones?",
+        "respuesta": "Al aplicar sanciones, se deben considerar aspectos como la gravedad del caso, la reincidencia, la premeditación, y la posición del estudiante dentro de UTEC, entre otros."
     },
     {
-        "Pregunta": "¿Qué es el 'Programa de Proyectos Especiales' en UTEC?",
-        "Respuesta": "El 'Programa de Proyectos Especiales' ofrece talleres para reducir el periodo de suspensión de estudiantes sancionados, bajo ciertas condiciones."
+        "pregunta": "¿Qué es el 'Programa de Proyectos Especiales' en UTEC?",
+        "respuesta": "El 'Programa de Proyectos Especiales' ofrece talleres para reducir el periodo de suspensión de estudiantes sancionados, bajo ciertas condiciones."
     },
     {
-        "Pregunta": "¿Qué autoridades están involucradas en el procedimiento disciplinario?",
-        "Respuesta": "En el procedimiento disciplinario intervienen la Secretaría General, el Decano de Facultad, el Tribunal Disciplinario y el Comité Disciplinario, cada uno con competencias específicas."
+        "pregunta": "¿Qué autoridades están involucradas en el procedimiento disciplinario?",
+        "respuesta": "En el procedimiento disciplinario intervienen la Secretaría General, el Decano de Facultad, el Tribunal Disciplinario y el Comité Disciplinario, cada uno con competencias específicas."
     },
     {
-        "Pregunta": "¿Cómo se manejan los recursos impugnatorios en el Reglamento?",
-        "Respuesta": "Los recursos de apelación y reconsideración se deben presentar dentro de un plazo establecido y se manejan a través de la Secretaría General o el Decano de la Facultad."
+        "pregunta": "¿Cómo se manejan los recursos impugnatorios en el Reglamento?",
+        "respuesta": "Los recursos de apelación y reconsideración se deben presentar dentro de un plazo establecido y se manejan a través de la Secretaría General o el Decano de la Facultad."
     },
     {
-        "Pregunta": "¿Qué principios rigen el debido proceso en los procedimientos disciplinarios?",
-        "Respuesta": "El debido proceso se rige por principios de razonabilidad, proporcionalidad y derecho de defensa, con todas las resoluciones debidamente fundamentadas."
+        "pregunta": "¿Qué principios rigen el debido proceso en los procedimientos disciplinarios?",
+        "respuesta": "El debido proceso se rige por principios de razonabilidad, proporcionalidad y derecho de defensa, con todas las resoluciones debidamente fundamentadas."
     },
     {
-        "Pregunta": "¿Qué consideraciones especiales existen para la aplicación de sanciones?",
-        "Respuesta": "Las consideraciones especiales para la aplicación de sanciones incluyen la gravedad del caso, reincidencia, premeditación, y la posición del estudiante en UTEC."
+        "pregunta": "¿Qué consideraciones especiales existen para la aplicación de sanciones?",
+        "respuesta": "Las consideraciones especiales para la aplicación de sanciones incluyen la gravedad del caso, reincidencia, premeditación, y la posición del estudiante en UTEC."
     },
     {
-        "Pregunta": "¿Cómo se definen las 'Infracciones' en el Reglamento?",
-        "Respuesta": "Las 'Infracciones' son acciones u omisiones reconocidas como tales en el Reglamento que contradicen los deberes de los estudiantes."
+        "pregunta": "¿Cómo se definen las 'Infracciones' en el Reglamento?",
+        "respuesta": "Las 'Infracciones' son acciones u omisiones reconocidas como tales en el Reglamento que contradicen los deberes de los estudiantes."
     },
     {
-        "Pregunta": "¿Qué se considera una 'Infracción leve' en el Reglamento?",
-        "Respuesta": "Las 'Infracciones leves' incluyen actividades no autorizadas, juegos de apuesta y acceso no autorizado a lugares restringidos en UTEC."
+        "pregunta": "¿Qué se considera una 'Infracción leve' en el Reglamento?",
+        "respuesta": "Las 'Infracciones leves' incluyen actividades no autorizadas, juegos de apuesta y acceso no autorizado a lugares restringidos en UTEC."
     },
     {
-        "Pregunta": "¿Cuáles son ejemplos de 'Infracción grave' según el Reglamento?",
-        "Respuesta": "Las 'Infracciones graves' incluyen recibir clases remuneradas de profesores de UTEC fuera de la institución, promover desorden o actividades ilegales y dañar las instalaciones o bienes de UTEC."
+        "pregunta": "¿Cuáles son ejemplos de 'Infracción grave' según el Reglamento?",
+        "respuesta": "Las 'Infracciones graves' incluyen recibir clases remuneradas de profesores de UTEC fuera de la institución, promover desorden o actividades ilegales y dañar las instalaciones o bienes de UTEC."
     },
     {
-        "Pregunta": "¿Qué acciones se consideran 'Infracciones muy graves'?",
-        "Respuesta": "Las 'Infracciones muy graves' abarcan acciones como la obtención y comercialización de contenido de evaluaciones, suplantación en evaluaciones, plagio, copia, dañar el prestigio de UTEC, cometer delitos y portar armas o sustancias prohibidas."
+        "pregunta": "¿Qué acciones se consideran 'Infracciones muy graves'?",
+        "respuesta": "Las 'Infracciones muy graves' abarcan acciones como la obtención y comercialización de contenido de evaluaciones, suplantación en evaluaciones, plagio, copia, dañar el prestigio de UTEC, cometer delitos y portar armas o sustancias prohibidas."
     },
     {
-        "Pregunta": "¿Qué tratamiento se da a los casos de violencia, discriminación y acoso sexual?",
-        "Respuesta": "Estos casos son manejados por el Comité de Intervención frente al Hostigamiento Sexual Educativo, que inicia procedimientos según el 'Protocolo para la Atención de los Casos de Hostigamiento Sexual'."
+        "pregunta": "¿Qué tratamiento se da a los casos de violencia, discriminación y acoso sexual?",
+        "respuesta": "Estos casos son manejados por el Comité de Intervención frente al Hostigamiento Sexual Educativo, que inicia procedimientos según el 'Protocolo para la Atención de los Casos de Hostigamiento Sexual'."
     }
 ]
