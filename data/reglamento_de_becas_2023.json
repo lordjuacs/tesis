@@ -1,0 +1,204 @@
+[
+    {
+        "pregunta": "¿Cuál es el objeto del reglamento de becas?",
+        "respuesta": "Establece las condiciones y disposiciones que regulan el sistema de becas de pregrado de la Universidad de Ingeniería y Tecnología en sus diferentes modalidades de estudio."
+    },
+    {
+        "pregunta": "¿Quiénes deben cumplir con las disposiciones del reglamento de becas?",
+        "respuesta": "Las disposiciones deben ser cumplidas por los postulantes, estudiantes, personal administrativo y las autoridades de UTEC."
+    },
+    {
+        "pregunta": "¿Qué se entiende por 'Estudiante' según el reglamento?",
+        "respuesta": "Un estudiante es quien está matriculado en no menos de 12 créditos académicos en UTEC, sea bajo modalidad presencial, semipresencial o a distancia."
+    },
+    {
+        "pregunta": "¿Qué cubre la beca en términos de matrícula y pensión de estudios?",
+        "respuesta": "La beca puede constituir una exoneración total o parcial del valor de créditos académicos matriculados en el respectivo ciclo académico de pregrado en UTEC."
+    },
+    {
+        "pregunta": "¿Cómo se realiza el otorgamiento de la beca?",
+        "respuesta": "El otorgamiento de la beca se realiza de oficio o a pedido de parte, cumpliendo con las condiciones y requisitos establecidos por UTEC y/o los terceros donantes."
+    },
+    {
+        "pregunta": "¿Qué tipos de becas existen en UTEC?",
+        "respuesta": "En UTEC existen becas financiadas por la propia universidad y becas financiadas por terceros."
+    },
+    {
+        "pregunta": "¿Cómo se otorga la Beca UTEC?",
+        "respuesta": "La Beca UTEC se otorga a postulantes con rendimiento escolar sobresaliente, priorizando a aquellos con mayor necesidad económica."
+    },
+    {
+        "pregunta": "¿Qué cubre la Beca UTEC?",
+        "respuesta": "Cubre el 100% de la pensión de estudios y matrícula, tasas por conceptos académicos, y el pago por segunda vez de créditos académicos desaprobados o retirados hasta tres oportunidades."
+    },
+    {
+        "pregunta": "¿Qué es la Beca por Aprovechamiento y a quién se dirige?",
+        "respuesta": "Es una beca parcial del 25% de la pensión de estudios, dirigida a estudiantes con alto nivel académico, independientemente de su nivel económico."
+    },
+    {
+        "pregunta": "¿Qué requisitos debe cumplir un estudiante para mantener la Beca por Aprovechamiento?",
+        "respuesta": "El estudiante debe haber ocupado los dos primeros puestos de su carrera en un ciclo académico regular y tener un mínimo de 40 créditos académicos aprobados en UTEC."
+    },
+    {
+        "pregunta": "¿Qué es la Beca Integral y a quién se dirige?",
+        "respuesta": "La Beca Integral está dirigida a postulantes y/o estudiantes talentosos con bajos recursos económicos. Cubre los gastos de matrícula, pensión de estudios, y otros conceptos adicionales como manutención, alojamiento, y un pasaje anual al lugar de origen del estudiante."
+    },
+    {
+        "pregunta": "¿Qué beneficios adicionales ofrece la Beca Integral aparte de la cobertura de matrícula y pensión?",
+        "respuesta": "Además de cubrir matrícula y pensión, la Beca Integral ofrece un desembolso mensual para manutención, pago de enseñanza de inglés, alojamiento durante ciclos académicos, cobertura de pasaje anual al lugar de origen, seguro de salud, y una computadora portátil."
+    },
+    {
+        "pregunta": "¿Cuál es el criterio para mantener la Beca Integral?",
+        "respuesta": "Para mantener la Beca Integral, el estudiante debe cumplir con un promedio mínimo y no exceder el número permitido de asignaturas desaprobadas o retiradas. Además, debe cumplir con los deberes y obligaciones establecidos en el convenio o contrato con UTEC."
+    },
+    {
+        "pregunta": "¿Cómo se pierde la Beca Integral y qué sucede en ese caso?",
+        "respuesta": "La Beca Integral se pierde si el estudiante no cumple con los requisitos académicos o disciplinarios. En caso de pérdida, el estudiante debe devolver la computadora portátil y no podrá postular a otras becas en UTEC."
+    },
+    {
+        "pregunta": "¿Qué es la Beca Académica y a quién está dirigida?",
+        "respuesta": "La Beca Académica está dirigida a postulantes y estudiantes talentosos con bajos recursos económicos. Cubre matrícula, pensión de estudios, y otros gastos académicos, y puede ser total o parcial."
+    },
+    {
+        "pregunta": "¿Cómo se determina el plazo de cobertura de la Beca Académica para estudiantes?",
+        "respuesta": "El plazo de cobertura de la Beca Académica para estudiantes se determina según los ciclos académicos regulares que le falten para concluir sus estudios en UTEC, incluyendo la cobertura de ciclos académicos extraordinarios."
+    },
+    {
+        "pregunta": "¿Qué sucede si un estudiante con Beca Académica desea participar en un programa de intercambio?",
+        "respuesta": "Si un estudiante con Beca Académica desea participar en un programa de intercambio, debe obtener la aprobación previa de la Oficina de Bienestar Estudiantil. Los costos no académicos relacionados con el programa de intercambio no están cubiertos por la beca."
+    },
+    {
+        "pregunta": "¿Cuáles son las condiciones para perder la Beca Académica o Integral?",
+        "respuesta": "Un estudiante pierde la Beca Académica o Integral si no cumple con el promedio mínimo requerido, desaprueba o se retira de demasiadas asignaturas, o no cumple con la asistencia mínima en actividades de becados. Otras condiciones específicas también pueden aplicar."
+    },
+    {
+        "pregunta": "¿Qué es la Reserva de Beca y quiénes pueden solicitarla?",
+        "respuesta": "La Reserva de Beca permite a estudiantes con becas para postulantes financiadas por UTEC solicitar una pausa en su beca por motivos justificados. La aprobación de la reserva está sujeta a evaluación del Comité de Becas."
+    },
+    {
+        "pregunta": "¿Cuáles son las principales causas de pérdida de una beca en UTEC?",
+        "respuesta": "Las causas principales de pérdida de una beca incluyen el término del plazo otorgado, sanciones disciplinarias graves, falsificación de datos, abandono o separación de UTEC, bajo rendimiento académico, y desaprobación o retiro de asignaturas en exceso."
+    },
+    {
+        "pregunta": "¿Qué es la Beca por Orfandad y quiénes pueden acceder a ella?",
+        "respuesta": "La Beca por Orfandad se otorga a estudiantes que han perdido a uno de sus padres, tutores o a la persona encargada de solventar su educación, demostrando carencia de recursos económicos para sufragar sus estudios. La beca cubre el 100% de la pensión de estudios y matrícula."
+    },
+    {
+        "pregunta": "¿Cómo se determina la elegibilidad para la Beca por Orfandad?",
+        "respuesta": "La elegibilidad para la Beca por Orfandad se determina mediante la presentación de documentos como acta de defunción o certificado médico, y una evaluación socioeconómica por parte de UTEC para acreditar la carencia de recursos económicos."
+    },
+    {
+        "pregunta": "¿Qué cubre la Beca PRODAC?",
+        "respuesta": "La Beca PRODAC se otorga a estudiantes deportistas que forman parte del Programa Deportivo de Alta Competencia de UTEC. Los detalles específicos de lo que cubre esta beca dependen de las disposiciones del Reglamento del PRODAC."
+    },
+    {
+        "pregunta": "¿Cómo se otorgan las becas financiadas por terceros en UTEC?",
+        "respuesta": "Las becas financiadas por terceros se otorgan a través de convenios entre UTEC y donantes externos. Estas becas pueden ser académicas o integrales y se otorgan según criterios acordados por UTEC y el donante."
+    },
+    {
+        "pregunta": "¿Qué cubre la Beca Académica financiada por terceros?",
+        "respuesta": "La Beca Académica financiada por terceros cubre la matrícula, la pensión de estudios y otros gastos académicos, según lo acordado entre UTEC y el donante."
+    },
+    {
+        "pregunta": "¿Cuáles son las condiciones para mantener una Beca Académica o Integral financiada por terceros?",
+        "respuesta": "Para mantener una Beca Académica o Integral financiada por terceros, los estudiantes deben cumplir con los requisitos establecidos en el convenio con UTEC o el donante, que generalmente incluyen rendimiento académico y otros compromisos."
+    },
+    {
+        "pregunta": "¿Qué sucede si un estudiante pierde una Beca Académica o Integral financiada por terceros?",
+        "respuesta": "Si un estudiante pierde una Beca Académica o Integral financiada por terceros, debe regresar a la escala de pago previa y no puede postular a otras becas establecidas en el reglamento."
+    },
+    {
+        "pregunta": "¿Cuáles son las principales causas de pérdida de una beca en UTEC?",
+        "respuesta": "Las causas principales de pérdida de una beca incluyen bajo rendimiento académico, desaprobación o retiro excesivo de asignaturas, sanciones disciplinarias graves, falsificación de datos, abandono o separación de UTEC."
+    },
+    {
+        "pregunta": "¿Qué implica la reserva de una beca en UTEC?",
+        "respuesta": "La reserva de una beca permite a estudiantes con becas para postulantes financiadas por UTEC solicitar una pausa en su beca por motivos justificados, sujeta a evaluación y aprobación del Comité de Becas."
+    },
+    {
+        "pregunta": "¿Qué sucede cuando un estudiante pierde una beca en UTEC?",
+        "respuesta": "Cuando un estudiante pierde una beca, regresa a la escala de pago en la que se encontraba antes de acceder a la beca y no puede postular a otras clases de becas establecidas en el reglamento."
+    },
+
+    {
+        "pregunta": "¿Qué es la Beca PRODAC y cuáles son sus requisitos?",
+        "respuesta": "La Beca PRODAC se otorga a estudiantes deportistas que forman parte del Programa Deportivo de Alta Competencia (PRODAC) de UTEC. Los requisitos específicos dependen de las disposiciones del Reglamento del PRODAC."
+    },
+    {
+        "pregunta": "¿Cómo se otorgan las becas financiadas por terceros en UTEC?",
+        "respuesta": "Las becas financiadas por terceros se otorgan a través de convenios entre UTEC y donantes externos. Estas becas pueden ser académicas o integrales y se otorgan según criterios acordados por UTEC y el donante."
+    },
+    {
+        "pregunta": "¿Qué incluye la Beca Integral financiada por terceros?",
+        "respuesta": "La Beca Integral financiada por terceros incluye la matrícula, pensión de estudios, tasas por conceptos académicos, y beneficios adicionales como manutención, alojamiento y seguro de salud, entre otros."
+    },
+    {
+        "pregunta": "¿Cuáles son las condiciones para mantener una Beca Académica o Integral financiada por terceros?",
+        "respuesta": "Para mantener una Beca Académica o Integral financiada por terceros, los estudiantes deben cumplir con los requisitos establecidos en el convenio con UTEC o el donante, que generalmente incluyen rendimiento académico y otros compromisos."
+    },
+    {
+        "pregunta": "¿Qué sucede si un estudiante pierde una Beca Académica o Integral financiada por terceros?",
+        "respuesta": "Si un estudiante pierde una Beca Académica o Integral financiada por terceros, debe regresar a la escala de pago previa y no puede postular a otras becas establecidas en el reglamento."
+    },
+    {
+        "pregunta": "¿Cuáles son las causas principales de pérdida de una beca en UTEC?",
+        "respuesta": "Las causas principales de pérdida de una beca incluyen bajo rendimiento académico, desaprobación o retiro excesivo de asignaturas, sanciones disciplinarias graves, falsificación de datos, abandono o separación de UTEC."
+    },
+    {
+        "pregunta": "¿Qué implica la reserva de una beca en UTEC?",
+        "respuesta": "La reserva de una beca permite a estudiantes con becas para postulantes financiadas por UTEC solicitar una pausa en su beca por motivos justificados, sujeta a evaluación y aprobación del Comité de Becas."
+    },
+    {
+        "pregunta": "¿Qué sucede cuando un estudiante pierde una beca en UTEC?",
+        "respuesta": "Cuando un estudiante pierde una beca, regresa a la escala de pago en la que se encontraba antes de acceder a la beca y no puede postular a otras clases de becas establecidas en el reglamento."
+    },
+    {
+        "pregunta": "¿Cuáles son las consecuencias de perder una beca en UTEC?",
+        "respuesta": "Al perder una beca, el estudiante regresa a la escala de pago previa y no podrá postular a otras clases de becas establecidas en el reglamento. Además, deberá cumplir con otras obligaciones específicas según el tipo de beca."
+    },
+    {
+        "pregunta": "¿Cómo se puede recuperar una beca perdida en UTEC?",
+        "respuesta": "La recuperación de una beca perdida depende de las causas de la pérdida y las políticas de UTEC. En algunos casos, la recuperación puede ser posible mediante el cumplimiento de ciertos requisitos o condiciones establecidas por la universidad."
+    },
+    {
+        "pregunta": "¿Cuáles son los requisitos para mantener la Beca UTEC?",
+        "respuesta": "Para mantener la Beca UTEC, el estudiante debe obtener un promedio ponderado mínimo de 13 en cada ciclo académico, no retirarse más de una vez durante su carrera por motivos justificados y participar en el programa de alumnos becados desde el primer ciclo hasta el final de su carrera."
+    },
+    {
+        "pregunta": "¿Qué cubre la Beca para hijos de colaboradores de UTEC, TECSUP y Grupo HOC & CPSAA?",
+        "respuesta": "Esta beca cubre un porcentaje de la pensión de estudios y matrícula, que varía según el rendimiento académico del estudiante. También incluye el pago por segunda vez de los créditos académicos de asignaturas desaprobadas o retiradas hasta un máximo de tres oportunidades."
+    },
+    {
+        "pregunta": "¿Qué es la Beca por Aprovechamiento y cómo se otorga?",
+        "respuesta": "La Beca por Aprovechamiento es una beca parcial del 25% de la pensión de estudios, otorgada automáticamente a estudiantes que ocupen los dos primeros puestos de su carrera en un ciclo académico regular y tengan un mínimo de 40 créditos académicos aprobados en UTEC."
+    },
+    {
+        "pregunta": "¿Cuáles son los criterios para recibir la Beca al Talento Destacado para deportistas?",
+        "respuesta": "La Beca al Talento Destacado para deportistas se otorga a estudiantes acreditados como deportistas calificados o de alto nivel por el Instituto del Deporte (IPD). La cobertura varía según el rendimiento académico y deportivo, y puede ser parcial respecto de la matrícula y pensión de estudios."
+    },
+    {
+        "pregunta": "¿Qué es la Beca al Talento Destacado para logros científicos?",
+        "respuesta": "Esta beca premia a estudiantes con logros destacados en competencias científicas nacionales o internacionales o que hayan recibido premios o reconocimientos en plataformas de prestigio. La cobertura de la beca varía según el nivel del logro alcanzado."
+    },
+    {
+        "pregunta": "¿Qué cubre la Beca por Orfandad y cómo se otorga?",
+        "respuesta": "La Beca por Orfandad cubre el 100% de la pensión de estudios y matrícula, y se otorga a estudiantes que han perdido a uno de sus padres o a la persona encargada de solventar su educación, demostrando carencia de recursos económicos."
+    },
+    {
+        "pregunta": "¿Cómo se otorgan las Becas Financiadas por Terceros en UTEC?",
+        "respuesta": "Las Becas Financiadas por Terceros se otorgan a través de convenios entre UTEC y donantes externos, y pueden ser becas académicas o integrales. Se otorgan según criterios establecidos por UTEC y el donante."
+    },
+    {
+        "pregunta": "¿Qué cubre la Beca Académica financiada por terceros?",
+        "respuesta": "La Beca Académica financiada por terceros cubre el pago del valor de la matrícula, la pensión de estudios, tasas por conceptos académicos y otros beneficios que UTEC y el donante consideren pertinentes."
+    },
+    {
+        "pregunta": "¿Qué condiciones deben cumplir los estudiantes para mantener una Beca Académica o Integral financiada por terceros?",
+        "respuesta": "Los estudiantes deben cumplir con los requisitos establecidos en el convenio con UTEC o el donante, que generalmente incluyen rendimiento académico y otros compromisos."
+    },
+    {
+        "pregunta": "¿Cuáles son las consecuencias de perder una Beca Académica o Integral financiada por terceros?",
+        "respuesta": "Al perder una Beca Académica o Integral financiada por terceros, el estudiante debe regresar a la escala de pago previa y no puede postular a otras becas establecidas en el reglamento."
+    }
+
+]

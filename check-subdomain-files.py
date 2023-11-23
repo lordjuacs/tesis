@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup
 import urllib.parse
 from retrying import retry
 
-
 def check_file_exists(url):
     try:
         # Send a HEAD request to check the file existence
@@ -12,7 +11,6 @@ def check_file_exists(url):
     except requests.exceptions.RequestException as e:
         print(f"Error checking file existence: {e}")
         return False
-
 
 @retry(wait_fixed=2000, stop_max_attempt_number=3)
 def scrape_website(url, result_file):

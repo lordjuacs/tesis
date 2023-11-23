@@ -1,0 +1,203 @@
+[
+    {
+        "pregunta": "¿Cuál es el objeto del reglamento de la Biblioteca de la Universidad de Ingeniería y Tecnología?",
+        "respuesta": "Regula las condiciones de uso de los recursos y servicios de la Biblioteca, así como las obligaciones, derechos y sanciones de los usuarios."
+    },
+    {
+        "pregunta": "¿Quiénes están obligados a cumplir el reglamento de la Biblioteca de la Universidad de Ingeniería y Tecnología?",
+        "respuesta": "Estudiantes, docentes, personal administrativo y autoridades de la Universidad de Ingeniería y Tecnología."
+    },
+    {
+        "pregunta": "¿Qué se entiende por 'Ciclo Académico' según el reglamento?",
+        "respuesta": "Es el periodo académico de clases de 16 semanas, con dos periodos académicos regulares al año."
+    },
+    {
+        "pregunta": "¿Quiénes son considerados usuarios de la Biblioteca?",
+        "respuesta": "Estudiantes de pregrado y postgrado, egresados, docentes, investigadores y personal administrativo de la Universidad, y estudiantes de otras instituciones con requisitos cumplidos."
+    },
+    {
+        "pregunta": "¿Qué documentación se requiere para acceder a los servicios de la Biblioteca?",
+        "respuesta": "Estudiantes y personal deben presentar su carné o documento de identidad. Egresados y estudiantes de otras instituciones solo deben presentar su documento de identidad."
+    },
+    {
+        "pregunta": "¿Cómo funciona el servicio de estantería abierta y lectura en sala en la Biblioteca?",
+        "respuesta": "Se permite acceso directo a la colección de libros, excepto colección audiovisual, y los materiales consultados deben dejarse en la estantería móvil."
+    },
+    {
+        "pregunta": "¿Cuáles son los parámetros para el préstamo de libros a domicilio?",
+        "respuesta": "La colección de libros está disponible para préstamo a domicilio, pero las revistas y periódicos solo para consulta en sala."
+    },
+    {
+        "pregunta": "¿Cómo se realiza la renovación de préstamos de libros?",
+        "respuesta": "Debe realizarse desde dos días antes o el mismo día de vencimiento hasta las 11:59 pm vía web, y no es posible renovar préstamos vencidos."
+    },
+    {
+        "pregunta": "¿Qué se necesita para usar las salas de estudio y computadoras de la Biblioteca?",
+        "respuesta": "Las salas y computadoras son para uso educativo exclusivo de estudiantes de UTEC y requieren reserva y validación presencial."
+    },
+    {
+        "pregunta": "¿Cómo se gestionan las reservas en línea para las salas de estudio y computadoras?",
+        "respuesta": "Las reservas se realizan con un día de anticipación máximo y hasta diez minutos antes del inicio de la hora solicitada vía web."
+    },
+    {
+        "pregunta": "¿Qué cantidad máxima de libros pueden pedir prestados los estudiantes de pregrado de UTEC?",
+        "respuesta": "Los estudiantes de pregrado de UTEC pueden pedir prestados hasta 2 libros a la vez."
+    },
+    {
+        "pregunta": "¿Por cuántos días hábiles se pueden prestar libros a los estudiantes de maestrías de UTEC?",
+        "respuesta": "Los estudiantes de maestrías de UTEC pueden prestar libros por 15 días hábiles."
+    },
+    {
+        "pregunta": "¿Qué servicios pueden utilizar los egresados de UTEC en la biblioteca?",
+        "respuesta": "Los egresados tienen acceso a los servicios de la Biblioteca excepto al préstamo a domicilio y salas de estudio."
+    },
+    {
+        "pregunta": "¿Cómo pueden acceder estudiantes de otras instituciones a los servicios de la Biblioteca?",
+        "respuesta": "Estudiantes de otras instituciones pueden acceder previa solicitud y presentación de una carta de su institución."
+    },
+    {
+        "pregunta": "¿Qué servicios ofrece la Biblioteca a las personas con discapacidad?",
+        "respuesta": "Ofrece servicios como asesoramiento personalizado, acceso a libros y revistas en formato de audio, y préstamo a domicilio a distancia."
+    },
+    {
+        "pregunta": "¿Qué deben hacer los usuarios al devolver material bibliográfico prestado?",
+        "respuesta": "Deben verificar que el material haya sido registrado por el personal de la biblioteca."
+    },
+    {
+        "pregunta": "¿Qué sanciones se aplican por no devolver un libro a tiempo?",
+        "respuesta": "Se aplica una penalidad de S/ 3.00 por día hábil de retraso y por libro."
+    },
+    {
+        "pregunta": "¿Qué pasa si un usuario pierde o deteriora material bibliográfico?",
+        "respuesta": "Se genera una boleta con el costo del libro más S/ 15.00 por gastos administrativos y se suspende en el sistema de préstamos hasta la reposición."
+    },
+    {
+        "pregunta": "¿Qué se considera una falta leve según el reglamento?",
+        "respuesta": "Una falta leve incluye acciones como fomentar desorden, hablar por teléfono en la sala de lectura, o consumir alimentos en la biblioteca."
+    },
+    {
+        "pregunta": "¿Cuál es el procedimiento en caso de detectar una falta o infracción?",
+        "respuesta": "El usuario debe identificarse y entregar su carné al personal de la Biblioteca. En caso de negativa se solicita apoyo del personal de seguridad."
+    },
+    {
+        "pregunta": "¿Qué recursos ofrece la biblioteca para el aprendizaje remoto?",
+        "respuesta": "La biblioteca ofrece recursos electrónicos accesibles desde su página web, incluyendo e-books, journals y casos de estudio."
+    },
+    {
+        "pregunta": "¿Cómo pueden acceder los miembros de UTEC a los recursos electrónicos de la biblioteca?",
+        "respuesta": "Los miembros de UTEC con cuenta institucional activa pueden acceder ingresando con su correo y contraseña."
+    },
+    {
+        "pregunta": "¿Se ofrecen talleres de formación en la biblioteca?",
+        "respuesta": "Sí, la biblioteca organiza talleres de formación para desarrollar habilidades informativas en búsqueda y recuperación de información."
+    },
+    {
+        "pregunta": "¿Qué servicios ofrece la biblioteca a los egresados de UTEC?",
+        "respuesta": "Los egresados tienen acceso a los servicios de la Biblioteca, excepto al préstamo a domicilio y salas de estudio."
+    },
+    {
+        "pregunta": "¿Cómo pueden acceder estudiantes de otras instituciones a los servicios de la biblioteca?",
+        "respuesta": "Estudiantes de otras instituciones pueden acceder previa solicitud y presentación de una carta de su institución."
+    },
+    {
+        "pregunta": "¿Qué apoyo ofrece la biblioteca a las personas con discapacidad?",
+        "respuesta": "La biblioteca ofrece servicios personalizados, acceso a libros y revistas en formato de audio y préstamo a domicilio a distancia."
+    },
+    {
+        "pregunta": "¿Cuáles son las responsabilidades del usuario sobre el material bibliográfico?",
+        "respuesta": "Los usuarios son responsables de registrar el préstamo del material, revisar su estado, conservarlo en buen estado y devolverlo a tiempo."
+    },
+    {
+        "pregunta": "¿Qué se considera una falta en la biblioteca?",
+        "respuesta": "Las faltas incluyen acciones como fomentar desorden, hablar por teléfono en la sala de lectura y consumir alimentos en la biblioteca."
+    },
+    {
+        "pregunta": "¿Qué constituye una infracción leve en la biblioteca?",
+        "respuesta": "Infracciones leves incluyen el uso no adecuado de las salas de estudio o computadoras y no devolver los materiales a tiempo."
+    },
+    {
+        "pregunta": "¿Qué tipo de sanciones se aplican ante faltas o infracciones en la biblioteca?",
+        "respuesta": "Las sanciones varían desde amonestaciones verbales hasta la suspensión de servicios de la biblioteca y procesos disciplinarios."
+    },
+    {
+        "pregunta": "¿Qué tipo de recursos electrónicos ofrece la biblioteca?",
+        "respuesta": "La biblioteca ofrece colecciones de e-books, journals y casos de estudio disponibles de manera remota."
+    },
+    {
+        "pregunta": "¿Cómo pueden solicitar los estudiantes asesoría personalizada en el uso de recursos electrónicos?",
+        "respuesta": "Los estudiantes pueden solicitar asesoría personalizada al personal de la Biblioteca para el uso de recursos electrónicos."
+    },
+    {
+        "pregunta": "¿Qué objetivo tiene la formación de usuarios en la biblioteca?",
+        "respuesta": "El objetivo es desarrollar habilidades informativas para la búsqueda y recuperación de la información."
+    },
+    {
+        "pregunta": "¿Qué servicios adicionales se ofrecen a los egresados de UTEC?",
+        "respuesta": "Los egresados tienen acceso a los servicios de la Biblioteca, excepto al préstamo a domicilio y salas de estudio."
+    },
+    {
+        "pregunta": "¿Cómo pueden acceder estudiantes de otras instituciones a los servicios de la biblioteca?",
+        "respuesta": "Estudiantes de otras instituciones pueden acceder previa solicitud y presentación de una carta de su institución."
+    },
+    {
+        "pregunta": "¿Qué servicios se ofrecen a personas con discapacidad en la biblioteca?",
+        "respuesta": "Se ofrecen servicios como asesoramiento personalizado, libros y revistas en formato de audio, y préstamo a domicilio a distancia."
+    },
+    {
+        "pregunta": "¿Cuál es el procedimiento para ampliar los días de préstamo para usuarios con discapacidad?",
+        "respuesta": "Usuarios con discapacidad pueden acceder al préstamo a domicilio de documentos por el doble de los días establecidos."
+    },
+    {
+        "pregunta": "¿Cómo se manejan las renovaciones a larga distancia en la biblioteca?",
+        "respuesta": "Los usuarios pueden solicitar la renovación del material prestado a domicilio vía telefónica, chat o correo."
+    },
+    {
+        "pregunta": "¿Qué responsabilidades tiene el usuario sobre el material bibliográfico?",
+        "respuesta": "El usuario es responsable de registrar el préstamo, revisar el estado, conservar en buen estado y devolver el material a tiempo."
+    },
+    {
+        "pregunta": "¿Qué se considera una falta en la biblioteca?",
+        "respuesta": "Faltas incluyen acciones como fomentar desorden, hablar por teléfono en la sala de lectura y consumir alimentos en la biblioteca."
+    },
+    {
+        "pregunta": "¿Cómo pueden los usuarios acceder a los recursos electrónicos de la biblioteca?",
+        "respuesta": "Los miembros de UTEC con cuenta institucional activa pueden acceder a los recursos electrónicos ingresando con su correo y contraseña."
+    },
+    {
+        "pregunta": "¿Qué tipo de talleres ofrece la biblioteca para desarrollar habilidades informativas?",
+        "respuesta": "La biblioteca organiza talleres de formación de usuarios para desarrollar habilidades informativas en la búsqueda y recuperación de información."
+    },
+    {
+        "pregunta": "¿Qué servicios están disponibles para los egresados de UTEC en la biblioteca?",
+        "respuesta": "Los egresados tienen acceso a los servicios de la Biblioteca, excepto al préstamo a domicilio y salas de estudio."
+    },
+    {
+        "pregunta": "¿Cómo pueden acceder estudiantes de otras instituciones a los servicios de la biblioteca?",
+        "respuesta": "Estudiantes de otras instituciones pueden acceder previa solicitud y presentación de una carta de su institución."
+    },
+    {
+        "pregunta": "¿Qué tipo de apoyo ofrece la biblioteca a las personas con discapacidad?",
+        "respuesta": "La biblioteca ofrece servicios como asesoramiento personalizado, acceso a libros y revistas en formato de audio, y préstamo a domicilio a distancia."
+    },
+    {
+        "pregunta": "¿Cuál es el procedimiento para ampliar los días de préstamo para usuarios con discapacidad?",
+        "respuesta": "Usuarios con discapacidad pueden acceder al préstamo a domicilio de documentos por el doble de los días establecidos."
+    },
+    {
+        "pregunta": "¿Cómo se manejan las renovaciones de préstamo a distancia en la biblioteca?",
+        "respuesta": "Los usuarios pueden solicitar la renovación del material prestado a domicilio vía telefónica, chat o correo."
+    },
+    {
+        "pregunta": "¿Cuáles son las responsabilidades del usuario sobre el material bibliográfico?",
+        "respuesta": "Los usuarios son responsables de registrar el préstamo del material, revisar su estado, conservarlo en buen estado y devolverlo a tiempo."
+    },
+    {
+        "pregunta": "¿Qué acciones se consideran faltas en la biblioteca?",
+        "respuesta": "Fomentar desorden, hablar por teléfono en la sala de lectura, y consumir alimentos en la biblioteca se consideran faltas."
+    },
+    {
+        "pregunta": "¿Qué tipo de sanciones se aplican por infracciones en la biblioteca?",
+        "respuesta": "Las sanciones varían desde amonestaciones verbales hasta la suspensión de servicios de la biblioteca y procesos disciplinarios."
+    }
+
+]

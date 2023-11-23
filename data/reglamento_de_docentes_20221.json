@@ -1,0 +1,122 @@
+[
+    {
+        "pregunta": "¿Cuál es el objeto del Reglamento de Docentes de la UTEC?",
+        "respuesta": "Regula todo lo referente a los docentes de pregrado y posgrado que desarrollan actividades académicas de docencia e investigación en la Universidad de Ingeniería y Tecnología."
+    },
+    {
+        "pregunta": "¿A quién aplica el Reglamento de Docentes de la UTEC?",
+        "respuesta": "Es de cumplimiento obligatorio para los docentes, el personal de apoyo a docentes, el personal administrativo y las autoridades de UTEC."
+    },
+    {
+        "pregunta": "¿Qué significa 'Docente TC' según el Reglamento de la UTEC?",
+        "respuesta": "Es un docente con asignación laboral mínima de 40 horas semanales en la UTEC."
+    },
+    {
+        "pregunta": "¿Cuáles son las clasificaciones de los docentes en la UTEC?",
+        "respuesta": "Los docentes se clasifican en Docentes Ordinarios, Docentes Extraordinarios y Docentes Contratados."
+    },
+    {
+        "pregunta": "¿Qué categorías existen dentro de los Docentes Ordinarios en la UTEC?",
+        "respuesta": "Las categorías son Docente Auxiliar, Docente Asociado y Docente Principal."
+    },
+    {
+        "pregunta": "¿Qué tipos de Docentes Extraordinarios hay en la UTEC?",
+        "respuesta": "Incluyen Emérito, Honorario, Doctor Honoris Causa, Visitante e Investigador Posdoctoral."
+    },
+    {
+        "pregunta": "¿Qué caracteriza a los Docentes Contratados en la UTEC?",
+        "respuesta": "Son aquellos con contrato a tiempo parcial y a plazo determinado, con actividades académicas que no superan las 19 o 23 horas semanales."
+    },
+    {
+        "pregunta": "¿Cuáles son las modalidades de los Docentes TC en la UTEC?",
+        "respuesta": "Incluyen Docente de Enseñanza, Docente de Enseñanza + Investigación, Docente Investigador y Docente Investigador UTEC."
+    },
+    {
+        "pregunta": "¿Qué define al Docente de Enseñanza en la UTEC?",
+        "respuesta": "Es un líder educativo con dedicación completa al desarrollo de actividades lectivas."
+    },
+    {
+        "pregunta": "¿Cómo se define al Docente de Enseñanza + Investigación en la UTEC?",
+        "respuesta": "Son líderes educativos con dedicación híbrida en actividades lectivas e investigación, realizando estudios para generar nuevo conocimiento."
+    },
+    {
+        "pregunta": "¿Qué es un Docente Investigador en la UTEC?",
+        "respuesta": "Es un profesional dedicado a la generación de conocimiento e innovación a través de la investigación, con carga lectiva de un curso por año y bonificación especial."
+    },
+    {
+        "pregunta": "¿En qué consiste la modalidad de Docente Investigador UTEC?",
+        "respuesta": "Es una modalidad para fomentar la investigación entre los docentes, permitiendo a cualquier docente solicitar ser clasificado en esta modalidad."
+    },
+    {
+        "pregunta": "¿Cómo se determina la línea de carrera de un docente ordinario a tiempo completo en la UTEC?",
+        "respuesta": "Se basa en factores diversos, alineados dentro de las tres grandes categorías y se evalúa con criterios del Modelo Docente y el Reglamento."
+    },
+    {
+        "pregunta": "¿Cuáles son los requisitos para un Docente Auxiliar en la UTEC?",
+        "respuesta": "Incluyen nivel de dominio del idioma inglés intermedio, título profesional, maestría, experiencia docente mínima de 2 años y capacitación docente completada."
+    },
+    {
+        "pregunta": "¿Qué requisitos debe cumplir un Docente Asociado en la UTEC?",
+        "respuesta": "Debe tener nivel de dominio del idioma inglés intermedio, título profesional, maestría, experiencia docente de 4 años y haber completado la capacitación docente."
+    },
+    {
+        "pregunta": "¿Qué se requiere para ser un Docente Principal en la UTEC?",
+        "respuesta": "Se requiere nivel de dominio del idioma inglés intermedio a avanzado, doctorado, título profesional, 9 años de experiencia docente y desempeño docente excelente."
+    },
+    {
+        "pregunta": "¿Cuáles son los plazos mínimos para la promoción de docentes ordinarios en la UTEC?",
+        "respuesta": "Cinco años para escalar de docente auxiliar a docente asociado y cinco años para escalar de docente asociado a docente principal."
+    },
+    {
+        "pregunta": "¿Qué define al Docente Extraordinario en la UTEC?",
+        "respuesta": "Es un profesional de excelencia que realiza actividades educativas relacionadas con su línea profesional o apoyo a proyectos de investigación o innovación didáctica."
+    },
+    {
+        "pregunta": "¿Cuáles son los regímenes de dedicación de los docentes de UTEC?",
+        "respuesta": "Pueden ser a tiempo completo o parcial, desarrollando actividades como investigación, docencia, participación universitaria, proyección social y extensión universitaria."
+    },
+    {
+        "pregunta": "¿Cómo se realiza la admisión de nuevos docentes en la UTEC?",
+        "respuesta": "A través de convocatorias publicadas en la página web de UTEC y en diferentes bolsas de trabajo, con un proceso de selección objetivo."
+    },
+    {
+        "pregunta": "¿Cuál es el proceso de evaluación del desempeño docente en la UTEC?",
+        "respuesta": "La DGA realiza la evaluación con información del CE2A y la DIN, y los docentes deben presentar evidencias de cada criterio hasta el 31 de diciembre de cada año."
+    },
+    {
+        "pregunta": "¿Cuáles son los deberes y obligaciones de los docentes en la UTEC?",
+        "respuesta": "Incluyen respetar el Estado democrático, ejercer la docencia con rigurosidad, generar conocimiento a través de investigación, perfeccionar conocimientos, participar en la mejora de programas educativos, entre otros."
+    },
+    {
+        "pregunta": "¿Cuáles son los derechos de los docentes en la UTEC?",
+        "respuesta": "Los derechos incluyen el ejercicio de la libertad de cátedra, promoción en la carrera docente, licencia por mandato legislativo, recibir remuneración según categoría y régimen de dedicación, y participar en proyectos de investigación."
+    },
+    {
+        "pregunta": "¿Qué apoyo se brinda a los docentes en la UTEC?",
+        "respuesta": "La DGA ha establecido posiciones de apoyo a la labor docente con criterios propios para su designación y/o renovación."
+    },
+    {
+        "pregunta": "¿Qué funciones realiza un Asistente de Enseñanza en la UTEC?",
+        "respuesta": "Incluyen tomar asistencia, cuidar la realización de exámenes, apoyar en aulas y laboratorios, brindar asesorías y preparar clases o materiales, entre otras actividades."
+    },
+    {
+        "pregunta": "¿Cuál es el rol del Técnico de Laboratorio en la UTEC?",
+        "respuesta": "Brinda apoyo en sesiones de laboratorio, realiza mantenimiento y cuidado de equipos, mantiene un inventario actualizado, y apoya en clases y servicios en el laboratorio."
+    },
+    {
+        "pregunta": "¿Qué responsabilidades tiene el Responsable de Laboratorio en la UTEC?",
+        "respuesta": "Además de las funciones del Técnico de Laboratorio, mantiene actualizada la página web de los laboratorios, coordina con técnicos y especialistas, y desarrolla guías y protocolos de higiene y seguridad."
+    },
+    {
+        "pregunta": "¿Quiénes pueden ser Ayudantes de Cátedra o Laboratorio en la UTEC?",
+        "respuesta": "Estudiantes de pregrado de últimos ciclos y pertenecientes al tercio superior, quienes brindan apoyo en aulas o laboratorios."
+    },
+    {
+        "pregunta": "¿Qué constituye una falta según el reglamento de la UTEC?",
+        "respuesta": "Cualquier conducta o omisión que transgrede, viola, quebranta, incumple o contraviene lo estipulado en el Reglamento de Docentes, otros reglamentos o normas internas de UTEC."
+    },
+    {
+        "pregunta": "¿Qué tipo de faltas ocasionan amonestación verbal en la UTEC?",
+        "respuesta": "Faltas de menor gravedad que no estén previstas como de cierta magnitud en el Reglamento Interno de Trabajo o en cualquier otra norma interna de UTEC."
+    }
+]

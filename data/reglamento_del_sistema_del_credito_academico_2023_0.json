@@ -1,0 +1,124 @@
+[
+    {
+        "pregunta": "¿Cuál es el objetivo del Reglamento del Sistema del Crédito Académico?",
+        "respuesta": "El Reglamento establece las condiciones y disposiciones que regulan el sistema del crédito académico en todas las modalidades de estudio de la Universidad de Ingeniería y Tecnología."
+    },
+    {
+        "pregunta": "¿A quiénes aplica el Reglamento del Sistema del Crédito Académico?",
+        "respuesta": "Aplica a los estudiantes, docentes, personal administrativo y autoridades de UTEC, quienes deben respetarlo además de otros reglamentos y documentos complementarios."
+    },
+    {
+        "pregunta": "¿Qué se entiende por 'asignatura regular' según el reglamento?",
+        "respuesta": "Una asignatura regular incluye todas las asignaturas del plan de estudios de un programa, excepto la asignatura Proyecto Preprofesional (RLE) y Proyecto Final de Carrera I o su equivalente."
+    },
+    {
+        "pregunta": "¿Cómo se define un 'estudiante' en el contexto del reglamento?",
+        "respuesta": "Un estudiante es aquel matriculado en cualquier programa de pregrado o posgrado en UTEC, ya sea bajo modalidad presencial, semipresencial o a distancia."
+    },
+    {
+        "pregunta": "¿Qué representa el 'crédito académico' en UTEC?",
+        "respuesta": "El crédito académico es una unidad de medida que indica la dedicación (horas) que los estudiantes necesitan para cada asignatura académica, incluyendo horas lectivas y no lectivas."
+    },
+    {
+        "pregunta": "¿Qué criterios se utilizan para la homologación de cursos?",
+        "respuesta": "Para la homologación de cursos, se consideran la similitud en contenido, número de créditos y horas lectivas con los cursos de UTEC."
+    },
+    {
+        "pregunta": "¿Cómo se manejan las inasistencias en UTEC?",
+        "respuesta": "Las inasistencias son controladas por cada profesor, y la inasistencia a más del 30% de las clases puede llevar a la desaprobación del curso."
+    },
+    {
+        "pregunta": "¿Qué sucede si un estudiante se retira de una asignatura?",
+        "respuesta": "Si un estudiante se retira de una asignatura después de las primeras cinco semanas, se considera desaprobado en esa asignatura."
+    },
+    {
+        "pregunta": "¿Qué es el Sistema de Crédito Académico en UTEC?",
+        "respuesta": "El Sistema de Crédito Académico en UTEC es un sistema que mide el esfuerzo académico del estudiante en función del tiempo dedicado a estudiar, asistir a clases, y realizar trabajos y exámenes."
+    },
+    {
+        "pregunta": "¿Qué representa el GPA en el sistema académico de UTEC?",
+        "respuesta": "El GPA (Grade Point Average) es un promedio de las calificaciones que refleja el rendimiento académico general del estudiante en UTEC."
+    },
+    {
+        "pregunta": "¿Qué es un crédito académico en UTEC?",
+        "respuesta": "Un crédito académico en UTEC representa una unidad de medida del trabajo académico del estudiante, incluyendo horas de clase, estudio y trabajo independiente."
+    },
+    {
+        "pregunta": "¿Cómo se calcula el promedio general de un estudiante en UTEC?",
+        "respuesta": "El promedio general de un estudiante se calcula sumando los productos de las calificaciones finales de cada curso y los créditos correspondientes, y dividiendo el total por la cantidad de créditos cursados."
+    },
+    {
+        "pregunta": "¿Qué significa 'asignatura electiva' en UTEC?",
+        "respuesta": "Una asignatura electiva es un curso que los estudiantes pueden elegir libremente para cumplir con los requisitos de créditos, fuera de las asignaturas obligatorias de su programa."
+    },
+    {
+        "pregunta": "¿Cuáles son las consecuencias de reprobar un curso en UTEC?",
+        "respuesta": "Reprobar un curso en UTEC puede requerir que el estudiante lo repita o tome un curso sustituto, y puede afectar el promedio general y el progreso académico del estudiante."
+    },
+    {
+        "pregunta": "¿Qué es una asignatura obligatoria en UTEC?",
+        "respuesta": "Una asignatura obligatoria es un curso que los estudiantes deben cursar y aprobar como parte de los requisitos de su programa académico en UTEC."
+    },
+    {
+        "pregunta": "¿Cómo se aplica la política de asistencia en UTEC?",
+        "respuesta": "La política de asistencia en UTEC requiere que los estudiantes asistan a un mínimo del 70% de las clases para no ser desaprobados por inasistencia."
+    },
+    {
+        "pregunta": "¿Qué sucede si un estudiante excede el límite de inasistencias en un curso?",
+        "respuesta": "Si un estudiante excede el límite de inasistencias permitido en un curso, será desaprobado automáticamente en ese curso."
+    },
+    {
+        "pregunta": "¿Cómo se manejan las evaluaciones en UTEC?",
+        "respuesta": "Las evaluaciones en UTEC son diseñadas por los docentes y pueden incluir exámenes, trabajos, proyectos y otras formas de evaluación del aprendizaje."
+    },
+    {
+        "pregunta": "¿Qué es una calificación final en el contexto de UTEC?",
+        "respuesta": "La calificación final en UTEC es la nota que un estudiante recibe al final del curso, basada en su rendimiento en evaluaciones, trabajos, proyectos y participación en clase."
+    },
+    {
+        "pregunta": "¿Cómo afecta la desaprobación de un curso al estudiante en UTEC?",
+        "respuesta": "La desaprobación de un curso puede afectar el promedio general del estudiante, requerir la repetición del curso o la toma de un sustituto, y afectar el tiempo necesario para completar el programa."
+    },
+    {
+        "pregunta": "¿Qué criterios se siguen para la selección de asignaturas electivas en UTEC?",
+        "respuesta": "Los estudiantes pueden elegir asignaturas electivas según sus intereses y objetivos académicos, siempre que cumplan con los requisitos previos y haya disponibilidad."
+    },
+    {
+        "pregunta": "¿Cuál es el proceso para cambiar de especialidad o carrera en UTEC?",
+        "respuesta": "El cambio de especialidad o carrera requiere la aprobación de la autoridad competente y puede estar sujeto a la evaluación del rendimiento académico y disponibilidad de cupos."
+    },
+    {
+        "pregunta": "¿Cómo se determinan los horarios de clases en UTEC?",
+        "respuesta": "Los horarios de clases son determinados por la universidad y pueden variar cada semestre, debiendo ser consultados por los estudiantes en el sistema académico."
+    },
+    {
+        "pregunta": "¿Qué sucede con los créditos de un curso reprobado en UTEC?",
+        "respuesta": "Los créditos de un curso reprobado no se cuentan para la graduación y el curso debe ser repetido o sustituido por otro aprobado."
+    },
+    {
+        "pregunta": "¿Cuáles son las condiciones para la graduación en UTEC?",
+        "respuesta": "Para graduarse, los estudiantes deben completar todos los créditos requeridos, aprobar todas las asignaturas y cumplir con los requisitos específicos de su programa."
+    },
+    {
+        "pregunta": "¿Cómo se manejan las solicitudes de exámenes extraordinarios en UTEC?",
+        "respuesta": "Los exámenes extraordinarios pueden ser solicitados bajo circunstancias especiales, sujetos a la aprobación de la dirección del programa y cumplimiento de criterios establecidos."
+    },
+    {
+        "pregunta": "¿Qué es un curso de nivelación en UTEC?",
+        "respuesta": "Un curso de nivelación es un curso ofrecido para que los estudiantes mejoren sus habilidades en áreas específicas antes de tomar cursos regulares del programa."
+    },
+    {
+        "pregunta": "¿Cómo se manejan las prácticas preprofesionales en UTEC?",
+        "respuesta": "Las prácticas preprofesionales son parte del plan de estudios y deben ser completadas en un entorno laboral real, bajo la supervisión de un tutor académico y un supervisor en el lugar de trabajo."
+    },
+    {
+        "pregunta": "¿Qué pasa si un estudiante no cumple con el mínimo de créditos por semestre en UTEC?",
+        "respuesta": "Si un estudiante no cumple con el mínimo de créditos por semestre, puede enfrentarse a consecuencias académicas y debe consultar con su asesor académico para planificar su carga académica."
+    },
+    {
+        "pregunta": "¿Cómo se calcula el promedio ponderado en UTEC?",
+        "respuesta": "El promedio ponderado se calcula multiplicando la calificación de cada curso por sus créditos y sumando los resultados, luego dividiendo por el total de créditos cursados."
+    }
+]
+
+

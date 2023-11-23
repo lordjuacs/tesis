@@ -1,0 +1,142 @@
+[
+    {
+        "pregunta": "¿Cuál es el objeto del reglamento de evaluaciones de la Universidad de Ingeniería y Tecnología?",
+        "respuesta": "Regula los aspectos referidos a las evaluaciones de los estudiantes de pregrado durante sus estudios en la Universidad de Ingeniería y Tecnología brindados bajo cualquiera de sus modalidades de estudio; y los procedimientos vinculados."
+    },
+    {
+        "pregunta": "¿A quién se aplica el reglamento de evaluaciones de la UTEC?",
+        "respuesta": "Es de cumplimiento obligatorio para los estudiantes, los docentes, el personal administrativo y las autoridades de UTEC, quienes además deben velar por su estricto respeto sin perjuicio de otros reglamentos y documentos complementarios."
+    },
+    {
+        "pregunta": "¿Qué significado tiene el término 'Asignaturas' según el reglamento?",
+        "respuesta": "Las 'Asignaturas' son los cursos que conforman el plan de estudios de cada una de las carreras profesionales de UTEC."
+    },
+    {
+        "pregunta": "¿Cómo se realiza la evaluación de cada asignatura en UTEC?",
+        "respuesta": "La evaluación de cada asignatura se realiza de acuerdo con el sistema de evaluación indicado en el sílabo y/o Anexo correspondiente, incluyendo las fechas de aplicación de todas las evaluaciones, la modalidad de la evaluación y su descripción."
+    },
+    {
+        "pregunta": "¿Qué comprende la 'Evaluación continua' en UTEC?",
+        "respuesta": "La 'Evaluación continua' comprende diversas evaluaciones aplicadas a lo largo del ciclo académico como tareas, trabajos grupales en aula, análisis de artículos científicos, participación activa en clases, exposiciones, presentaciones, portafolio, pruebas y otras evaluaciones de manera continua."
+    },
+    {
+        "pregunta": "¿Qué es un 'Proyecto' en el contexto de las evaluaciones en UTEC?",
+        "respuesta": "Un 'Proyecto' es un conjunto de actividades enfocadas en alcanzar uno o varios objetivos, que podría incluir la presentación del progreso a través de reportes o informes escritos o mediante una exposición oral."
+    },
+    {
+        "pregunta": "¿Qué representa un 'Laboratorio' en el sistema de evaluación de UTEC?",
+        "respuesta": "Un 'Laboratorio' es el registro de toda actividad experimental o de cómputo e incluye salidas de campo."
+    },
+    {
+        "pregunta": "¿Cómo se define un 'Examen' en UTEC?",
+        "respuesta": "Un 'Examen' comprende una evaluación que integra conceptos teóricos y prácticos aprendidos durante las sesiones de clase, incluyendo exámenes parciales, finales y orales."
+    },
+    {
+        "pregunta": "¿Qué es una 'Práctica calificada' en el sistema de evaluación de UTEC?",
+        "respuesta": "Una 'Práctica calificada' es una prueba donde se desarrollan ejercicios para adquirir un mayor conocimiento de aplicación a la realidad, como un control de lectura o la resolución de problemas práctico/teóricos."
+    },
+    {
+        "pregunta": "¿Cómo se desarrollan las evaluaciones en UTEC?",
+        "respuesta": "El docente de la asignatura, en coordinación con el Director del Departamento Académico, decide sobre la duración, el número y el peso de las evaluaciones, la modalidad de evaluación y si se permite el uso de apuntes, libros, calculadoras, etc. Las evaluaciones orales son individuales y la nota es indicada en clase por el docente."
+    },
+    {
+        "pregunta": "¿Cómo se programa el calendario de exámenes finales en UTEC?",
+        "respuesta": "El calendario de exámenes finales es programado por la Oficina de Servicios Académicos dentro del horario de clases y comunicado por UTEC a través de los canales que estime conveniente. Durante este periodo, UTEC no dictará clases."
+    },
+    {
+        "pregunta": "¿Qué opciones tiene un estudiante que no pueda rendir un examen parcial o final programado en UTEC?",
+        "respuesta": "Si un estudiante no puede rendir un examen parcial o final programado, puede solicitar excepcionalmente una evaluación de rezagado, que reemplazará a la de mayor peso, presentando la solicitud y el pago respectivo al día siguiente del examen. Los exámenes de rezagado finales son presenciales, independientemente de la modalidad de la asignatura."
+    },
+    {
+        "pregunta": "¿Cómo es el sistema de calificación en UTEC?",
+        "respuesta": "El sistema de calificación en UTEC es vigesimal, con una escala de 00 a 20 en números enteros. La nota mínima aprobatoria es 11. El promedio de las evaluaciones se calcula en fracción centesimal, redondeando toda fracción igual o mayor a 0.5 al entero superior y menor a 0.5 al entero inferior."
+    },
+    {
+        "pregunta": "¿Cuál es el plazo para la entrega de calificaciones de evaluaciones que no son parciales o finales en UTEC?",
+        "respuesta": "Las calificaciones de evaluaciones que no son parciales o finales deben ser entregadas a los estudiantes en un plazo máximo de 6 días calendario a través de la plataforma CANVAS y 1 día calendario en la plataforma EDU."
+    },
+    {
+        "pregunta": "¿Qué sucede si un estudiante reprueba una asignatura en UTEC?",
+        "respuesta": "Si un estudiante reprueba una asignatura, debe repetirla. No hay repetición si se realizó el trámite de retiro de la asignatura o del ciclo. Un estudiante que repruebe tres veces una o más asignaturas es separado definitiva y automáticamente de UTEC."
+    },
+    {
+        "pregunta": "¿Qué acciones se consideran como actos deshonestos durante las evaluaciones en UTEC?",
+        "respuesta": "Actos deshonestos incluyen permitir o cometer plagio, participar en la obtención anticipada de evaluaciones, participar o permitir la suplantación durante las evaluaciones, entre otros. Estos actos resultan en una calificación de 'Anulado' y se registran como advertencia disciplinaria."
+    },
+    {
+        "pregunta": "¿Qué sucede si un estudiante de UTEC no asiste a una evaluación?",
+        "respuesta": "Si un estudiante no rinde una evaluación establecida, se le aplica la nota 'NP'. El estudiante puede recuperar la evaluación coordinando directamente con el docente, excepto en el caso de exámenes, donde se aplica lo establecido en el artículo 10°."
+    },
+    {
+        "pregunta": "¿Cómo se calcula el promedio ponderado del ciclo en UTEC?",
+        "respuesta": "El promedio ponderado del ciclo en UTEC se calcula sumando los valores de la multiplicación del número de créditos de cada asignatura por la nota obtenida y dividiéndolo entre el número total de créditos matriculados en el ciclo. Este promedio no considera asignaturas retiradas y sirve para el cuadro de mérito y programas de bienestar estudiantil."
+    },
+    {
+        "pregunta": "¿Cómo se determina el promedio ponderado acumulado de la carrera en UTEC?",
+        "respuesta": "El promedio ponderado acumulado de la carrera en UTEC se obtiene sumando los valores de la multiplicación del número de créditos de cada asignatura por la nota obtenida y dividiéndolo entre el total de créditos matriculados durante la carrera. No se consideran asignaturas retiradas y sirve para la conformación del cuadro de mérito general de la carrera."
+    },
+    {
+        "pregunta": "¿Cómo se programa el calendario de exámenes finales en UTEC?",
+        "respuesta": "El calendario de exámenes finales es programado por la Oficina de Servicios Académicos dentro del horario de clases establecido y es comunicado por UTEC a través de los canales que estime conveniente. Durante el periodo de exámenes finales, UTEC no dictará clases."
+    },
+    {
+        "pregunta": "¿Qué puede hacer un estudiante si no puede rendir un examen parcial o final programado?",
+        "respuesta": "Si un estudiante no puede rendir un examen parcial o final programado, puede solicitar excepcionalmente, mediante el trámite establecido, que se le aplique la evaluación por una sola vez de acuerdo al calendario académico. Si no ha rendido el examen parcial ni final, la nota reemplazará a la de mayor peso. En el ciclo extraordinario de verano no existe el examen de rezagado."
+    },
+    {
+        "pregunta": "¿Cómo funciona el sistema de calificación en UTEC?",
+        "respuesta": "El sistema de calificación en UTEC es vigesimal y comprende la escala de 00 a 20 en números enteros. La nota mínima aprobatoria es 11. El promedio de las evaluaciones se expresa en fracción centesimal truncado a 2 decimales. Para el cálculo del promedio final, se redondea toda fracción igual o mayor a 0.5 al entero superior y menor a 0.5 al entero inferior."
+    },
+    {
+        "pregunta": "¿Cuál es el plazo para la entrega de calificaciones de evaluaciones no parciales o finales en UTEC?",
+        "respuesta": "Las evaluaciones que no sean parciales o finales deben ser calificadas y entregadas a los estudiantes en un plazo máximo de 6 días calendario a través de la plataforma CANVAS y 1 día calendario en la plataforma EDU. Para las evaluaciones parciales y finales, el docente publica las notas en las mismas plataformas y coordina la revisión con los estudiantes."
+    },
+    {
+        "pregunta": "¿Qué sucede si un estudiante desaprueba una asignatura en UTEC?",
+        "respuesta": "El estudiante debe repetir las asignaturas en las que ha sido desaprobado. No hay repetición de asignatura si el estudiante realizó el trámite de retiro de asignatura o de ciclo. Si desaprueba por tercera vez una o más asignaturas, es separado de manera definitiva y automática de UTEC."
+    },
+    {
+        "pregunta": "¿Cómo se maneja la integridad académica en UTEC?",
+        "respuesta": "La integridad académica en UTEC implica actuar con honestidad en las evaluaciones. Actos deshonestos como plagio, obtención anticipada de evaluaciones, suplantación durante las evaluaciones, entre otros, resultan en la calificación AN (Anulado). Esta nota no puede ser eliminada salvo absolución en un procedimiento disciplinario."
+    },
+    {
+        "pregunta": "¿Qué sucede si un estudiante no asiste a una evaluación en UTEC?",
+        "respuesta": "Si un estudiante no rinde una evaluación establecida, se le aplica la nota NP. Puede recuperar la evaluación coordinando directamente con el docente, excepto en el caso de exámenes, donde se aplica lo establecido en el artículo 10°."
+    },
+    {
+        "pregunta": "¿Cómo se calcula el promedio ponderado del ciclo en UTEC?",
+        "respuesta": "El promedio ponderado del ciclo en UTEC se calcula sumando los valores de la multiplicación del número de créditos de cada asignatura por la nota obtenida, y dividiéndolo entre el número total de créditos matriculados en el ciclo. Sirve como indicador del desempeño académico y para acceder a programas de bienestar estudiantil."
+    },    {
+        "pregunta": "¿Cómo se organiza el calendario de exámenes finales en UTEC?",
+        "respuesta": "El calendario de exámenes finales es programado por la Oficina de Servicios Académicos dentro del horario de clases establecido y es comunicado por UTEC a través de los canales apropiados. Durante el periodo de exámenes finales, UTEC no dictará clases."
+    },
+    {
+        "pregunta": "¿Qué es un examen de rezagado en UTEC y cómo se solicita?",
+        "respuesta": "Un examen de rezagado es una oportunidad para que un estudiante rinda un examen parcial o final que no pudo rendir en la fecha programada. La solicitud debe presentarse en el counter de alumnos al día siguiente del examen original, adjuntando la solicitud y el pago respectivo. Los exámenes de rezagado finales son presenciales, independientemente de la modalidad de la asignatura."
+    },
+    {
+        "pregunta": "¿Cómo se calcula la calificación en UTEC?",
+        "respuesta": "El sistema de calificación en UTEC es vigesimal, con una escala de 00 a 20 en números enteros. La nota mínima aprobatoria es 11. El promedio de las evaluaciones se calcula en fracción centesimal, y cualquier fracción en la nota igual o mayor a 0.5 se redondea al entero superior, mientras que las menores a 0.5 se redondean al entero inferior."
+    },
+    {
+        "pregunta": "¿Cuál es el plazo para la entrega de calificaciones de evaluaciones no parciales o finales en UTEC?",
+        "respuesta": "Las evaluaciones que no son parciales o finales deben ser calificadas y entregadas a los estudiantes en un máximo de 6 días calendario a través de la plataforma CANVAS y 1 día calendario en la plataforma EDU, tras la conclusión de la combinación de actividades para determinar la nota."
+    },
+    {
+        "pregunta": "¿Qué sucede si un estudiante reprueba una asignatura en UTEC?",
+        "respuesta": "El estudiante debe repetir las asignaturas en las que ha sido desaprobado. No hay repetición de asignatura si el estudiante realizó el trámite de retiro de asignatura o de ciclo. Si un estudiante desaprueba una asignatura por tercera vez, será separado de manera definitiva y automática de UTEC."
+    },
+    {
+        "pregunta": "¿Cuáles son los actos considerados deshonestos durante las evaluaciones en UTEC?",
+        "respuesta": "Los actos deshonestos durante las evaluaciones incluyen permitir el plagio o copiar, participar en la obtención anticipada o comercialización de evaluaciones, y participar o permitir la suplantación durante las evaluaciones. Estos actos resultarán en la calificación AN (Anulado) para la respectiva evaluación o asignatura."
+    },
+    {
+        "pregunta": "¿Qué pasa si un estudiante no asiste a una evaluación en UTEC?",
+        "respuesta": "Si un estudiante no rinde una evaluación establecida, se aplica la nota NP. El estudiante puede recuperar la evaluación coordinando directamente con el docente, excepto en el caso de exámenes, donde se aplica lo establecido en el artículo 10°."
+    },
+    {
+        "pregunta": "¿Cómo se calcula el promedio ponderado del ciclo en UTEC?",
+        "respuesta": "El promedio ponderado del ciclo en UTEC se calcula sumando los valores resultantes de la multiplicación del número de créditos de cada asignatura por la nota obtenida en la misma y dividiéndolo entre el número total de créditos en que estuvo matriculado el estudiante en el respectivo ciclo académico."
+    }
+
+]

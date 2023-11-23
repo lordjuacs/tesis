@@ -1,0 +1,122 @@
+[
+    {
+        "pregunta": "¿Cuál es el objeto del Reglamento de Grados y Títulos de Pregrado?",
+        "respuesta": "El Reglamento regula el procedimiento para otorgar el grado académico de bachiller y Título Profesional en las carreras profesionales de pregrado."
+    },
+    {
+        "pregunta": "¿Quiénes deben cumplir con el Reglamento de Grados y Títulos de Pregrado?",
+        "respuesta": "Es de cumplimiento para estudiantes, egresados, bachilleres, personal administrativo y autoridades de la Universidad."
+    },
+    {
+        "pregunta": "¿Qué es un 'Bachiller' según el reglamento?",
+        "respuesta": "Un Bachiller es aquella persona que ha obtenido el Grado Académico de bachiller en la Universidad."
+    },
+    {
+        "pregunta": "¿Qué documento acredita los estudios realizados en la Universidad?",
+        "respuesta": "El Certificado de Estudios acredita los estudios realizados, detallando el nombre del estudiante, su código, carrera profesional y sus notas."
+    },
+    {
+        "pregunta": "¿Cómo se obtiene el grado académico de bachiller?",
+        "respuesta": "Para obtenerlo se requiere haber adquirido la condición de egresado, aprobado un Trabajo de Investigación, acreditar conocimiento de un idioma extranjero, entre otros requisitos."
+    },
+    {
+        "pregunta": "¿Qué es un 'Trabajo de Investigación' según el reglamento?",
+        "respuesta": "Es un trabajo académico que demuestra el dominio general de los aspectos centrales desarrollados en el currículo."
+    },
+    {
+        "pregunta": "¿Cuáles son los plazos para solicitar el grado académico de bachiller con un Trabajo de Investigación?",
+        "respuesta": "El plazo máximo es de 12 meses contados desde la fecha de egreso del estudiante."
+    },
+    {
+        "pregunta": "¿Qué se requiere para optar por el Título Profesional?",
+        "respuesta": "Se necesita haber obtenido el grado de bachiller, aprobado la sustentación pública de una Tesis y cumplir con requisitos administrativos."
+    },
+    {
+        "pregunta": "¿Qué es el Jurado Calificador en el contexto de una Tesis?",
+        "respuesta": "El Jurado Calificador es un órgano encargado de evaluar la sustentación de Tesis y decidir sobre su aprobación o desaprobación."
+    },
+    {
+        "pregunta": "¿Qué sanciones se imponen por infracciones al Reglamento?",
+        "respuesta": "Las sanciones pueden incluir la suspensión temporal para tramitar el grado o título y la anulación del grado o título ya entregado."
+    }, 
+    {
+        "pregunta": "¿Qué obligaciones tiene un asesor según el reglamento?",
+        "respuesta": "Un asesor debe orientar al estudiante en la planificación y ejecución del Trabajo de Investigación o Tesis, en aspectos técnicos y éticos, verificar que cumpla con los formatos establecidos por UTEC, y otras funciones pertinentes."
+    },
+    {
+        "pregunta": "¿Cómo se conforma el Jurado Calificador para evaluar una Tesis?",
+        "respuesta": "El Jurado Calificador está compuesto por tres miembros, siendo dos de ellos externos a UTEC para carreras de ingeniería. El asesor puede ser parte del jurado, pero no su presidente."
+    },
+    {
+        "pregunta": "¿Cuál es la función del Director General Académico en el proceso de grados y títulos?",
+        "respuesta": "El Director General Académico se encarga de conferir el Grado Académico y/o Título Profesional, y refrendar el diploma respectivo."
+    },
+    {
+        "pregunta": "¿Qué responsabilidades tiene el Decano de Facultad?",
+        "respuesta": "El Decano de la Facultad del egresado o bachiller se encarga de suscribir el diploma respectivo."
+    },
+    {
+        "pregunta": "¿Cuál es el rol de la Secretaría General en el proceso de grados y títulos?",
+        "respuesta": "La Secretaría General suscribe los diplomas certificando su autenticidad y se encarga de registrar e inscribir el Grado Académico y/o Título Profesional en SUNEDU."
+    },
+    {
+        "pregunta": "¿Qué hace el Director del Departamento Académico en este proceso?",
+        "respuesta": "El Director del Departamento Académico informa y presenta la documentación para la emisión de la resolución de grado o título, designa miembros del Jurado Calificador y verifica la originalidad de los trabajos en el repositorio."
+    },
+    {
+        "pregunta": "¿Cuál es la función de la Dirección de Investigación?",
+        "respuesta": "La Dirección de Investigación verifica la autenticidad y originalidad del Trabajo de Investigación y/o Tesis y emite la declaración jurada correspondiente."
+    },
+    {
+        "pregunta": "¿Qué tareas realiza la Oficina de Servicios Académicos?",
+        "respuesta": "Esta oficina verifica el cumplimiento de los requisitos para la obtención del Grado Académico de bachiller o Título Profesional."
+    },
+    {
+        "pregunta": "¿Cómo se gestiona un duplicado de diploma por pérdida, deterioro o robo?",
+        "respuesta": "Para obtener un duplicado, se debe presentar una solicitud al Director General Académico, un recibo de pago, una declaración jurada del motivo y, en caso de robo, una indicación de la situación."
+    },
+    {
+        "pregunta": "¿Cuáles son las infracciones y sanciones establecidas en el reglamento?",
+        "respuesta": "Infracciones graves incluyen presentar documentos falsos, cometer plagio y ofrecer dádivas a autoridades para beneficios académicos. Las sanciones pueden ser suspensión temporal o anulación del grado o título otorgado."
+    },
+    {
+        "pregunta": "¿Cuál es el rol del asesor en el proceso de grados y títulos?",
+        "respuesta": "El asesor es un docente experto responsable por orientar al egresado o bachiller en el planeamiento y ejecución del Trabajo de Investigación o Tesis, en aspectos técnicos y éticos, y en verificar que cumplan con los formatos establecidos por UTEC."
+    },
+    {
+        "pregunta": "¿Cómo se compone el Jurado Calificador para la evaluación de Tesis?",
+        "respuesta": "El Jurado Calificador está conformado por 3 miembros, máximo 2 pueden ser externos a UTEC, y el asesor puede ser parte del jurado pero no su presidente."
+    },
+    {
+        "pregunta": "¿Qué responsabilidades tiene el Director General Académico?",
+        "respuesta": "El Director General Académico se encarga de conferir el Grado Académico y/o Título Profesional y refrendar el diploma respectivo."
+    },
+    {
+        "pregunta": "¿Cuál es la función del Decano de Facultad?",
+        "respuesta": "El Decano de la facultad del egresado o bachiller es responsable de suscribir el diploma respectivo."
+    },
+    {
+        "pregunta": "¿Qué tareas realiza la Secretaría General en el proceso?",
+        "respuesta": "La Secretaría General suscribe los diplomas certificando su autenticidad y registra e inscribe el Grado Académico y/o Título Profesional en SUNEDU."
+    },
+    {
+        "pregunta": "¿Qué responsabilidades tiene la Dirección del Departamento Académico?",
+        "respuesta": "La Dirección del Departamento Académico presenta la documentación para la emisión de la resolución de grado o título, designa miembros del Jurado Calificador y verifica la originalidad de los trabajos."
+    },
+    {
+        "pregunta": "¿Cuál es el rol de la Dirección de Investigación?",
+        "respuesta": "La Dirección de Investigación verifica la autenticidad y originalidad del Trabajo de Investigación y/o Tesis y emite la declaración jurada correspondiente."
+    },
+    {
+        "pregunta": "¿Qué hace la Oficina de Servicios Académicos?",
+        "respuesta": "La Oficina de Servicios Académicos verifica el cumplimiento de los requisitos para la obtención del Grado Académico de bachiller o Título Profesional."
+    },
+    {
+        "pregunta": "¿Cómo se gestiona un duplicado de diploma en caso de pérdida, deterioro o robo?",
+        "respuesta": "Para un duplicado de diploma, se debe presentar una solicitud al Director General Académico, un recibo de pago, una declaración jurada del motivo, y en caso de robo, una declaración jurada indicando la situación."
+    },
+    {
+        "pregunta": "¿Qué infracciones y sanciones se establecen en el reglamento?",
+        "respuesta": "Las infracciones graves incluyen presentar documentos falsos, ofrecer dádivas a autoridades académicas, cometer plagio, y presentarse a la sustentación de Tesis bajo efectos de sustancias. Las sanciones pueden ser suspensión temporal o anulación del grado o título otorgado."
+    }
+]

@@ -1,0 +1,203 @@
+[
+    {
+        "Pregunta": "¿Cuál es el objeto del Reglamento de Crédito Educativo?",
+        "Respuesta": "Regula las condiciones generales, términos y disposiciones del Sistema de Crédito Educativo para estudiantes y egresados de la UTEC."
+    },
+    {
+        "Pregunta": "¿A quién se aplica el Reglamento de Crédito Educativo?",
+        "Respuesta": "A estudiantes de pregrado, egresados, responsables de pagos de pensiones y/o crédito educativo, y a los garantes."
+    },
+    {
+        "Pregunta": "¿Qué es un Contrato de Crédito Educativo con Fianza Solidaria?",
+        "Respuesta": "Es el documento que formaliza el crédito educativo otorgado al estudiante."
+    },
+    {
+        "Pregunta": "¿Cuáles son las modalidades de crédito educativo ofrecidas?",
+        "Respuesta": "Son del 25%, 50% y 75% del valor total de créditos académicos para aplicar en la pensión de estudios."
+    },
+    {
+        "Pregunta": "¿Qué requisitos debe cumplir un estudiante para solicitar el crédito educativo?",
+        "Respuesta": "Ser estudiante de pregrado de UTEC, estar en la escala de pago más baja, tener una condición económica familiar que no le permita afrontar el pago de su pensión, tener buen rendimiento académico y conducta, ser menor de 23 años, no ser egresado de educación superior, tener dos garantes y cumplir con otros requisitos establecidos por UTEC."
+    },
+    {
+        "Pregunta": "¿Cómo se realiza la solicitud del crédito educativo?",
+        "Respuesta": "El estudiante debe presentar una carpeta de crédito educativo con todos los documentos requeridos por UTEC, incluyendo los documentos sustentatorios de su condición económica y los documentos probatorios de la solvencia económica de los garantes."
+    },
+    {
+        "Pregunta": "¿Qué hace el Comité de Crédito Educativo?",
+        "Respuesta": "El Comité del Crédito Educativo aprueba o desaprueba las solicitudes de crédito educativo y fija el porcentaje de crédito con el que el estudiante beneficiario puede efectuar su matrícula."
+    },
+    {
+        "Pregunta": "¿Qué se necesita para formalizar el crédito educativo?",
+        "Respuesta": "Los estudiantes beneficiarios deben firmar un Contrato de Crédito Educativo con Fianza Solidaria, junto con sus padres o tutores si son menores de edad, sus garantes y los representantes de UTEC. También se debe firmar un pagaré, el Convenio de Integración del Título-Valor, la Hoja Resumen, los compromisos de honor y el Reglamento."
+    },
+    {
+        "Pregunta": "¿Qué es la garantía solidaria para el crédito educativo?",
+        "Respuesta": "Es la garantía solidaria irrevocable e ilimitada, sin beneficio de excusión, proporcionada por dos garantes con solvencia económica comprobable."
+    },
+    {
+        "Pregunta": "¿Qué sucede si se incumple con informar cambios de información relevante a UTEC?",
+        "Respuesta": "Constituye incumplimiento de las condiciones del crédito educativo y puede llevar a la pérdida del crédito obtenido."
+    },
+    {
+        "Pregunta": "¿Qué sucede si un garante fallece o su situación patrimonial cambia?",
+        "Respuesta": "Si un garante fallece o su situación patrimonial ya no garantiza las obligaciones del estudiante, éste debe reemplazarlo por otro garante con solvencia económica, previa autorización de UTEC, en un plazo máximo de 30 días."
+    },
+    {
+        "Pregunta": "¿Qué deben hacer los obligados si hay cambios en su información personal o patrimonial?",
+        "Respuesta": "Deben comunicar a UTEC cualquier cambio en su información personal o patrimonial dentro de 15 días hábiles; el incumplimiento puede llevar a la pérdida del crédito educativo."
+    },
+    {
+        "Pregunta": "¿Cuáles son las condiciones para mantener el crédito educativo?",
+        "Respuesta": "El estudiante debe aprobar todas las asignaturas de cada ciclo, mantener buena conducta y cumplir con las demás obligaciones establecidas para el beneficio."
+    },
+    {
+        "Pregunta": "¿Cómo se realiza el otorgamiento y valoración del crédito educativo?",
+        "Respuesta": "Se otorga según la modalidad aprobada por UTEC, con el valor del crédito definido por el porcentaje otorgado respecto al valor de los créditos académicos."
+    },
+    {
+        "Pregunta": "¿Qué pasa con los créditos matriculados no financiados?",
+        "Respuesta": "Los obligados deben pagar puntualmente el monto no incluido en el crédito; de lo contrario, se aplicarán las consecuencias establecidas en el Reglamento de Pensiones."
+    },
+    {
+        "Pregunta": "¿Cómo se comprometen los obligados a devolver el crédito educativo?",
+        "Respuesta": "Se comprometen a devolver el crédito de acuerdo al valor del crédito académico actualizado a la fecha de pago."
+    },
+    {
+        "Pregunta": "¿Cuáles son los plazos máximos y montos mínimos de devolución del crédito educativo?",
+        "Respuesta": "El plazo máximo es de 10 años desde que la deuda se vuelve exigible, con montos mínimos que varían año a año según el esquema establecido."
+    },
+    {
+        "Pregunta": "¿Se pueden realizar pagos voluntarios para amortizar la deuda del crédito educativo?",
+        "Respuesta": "Sí, se pueden realizar pagos voluntarios en cualquier momento y por cualquier importe para amortizar la deuda, considerando el valor del crédito académico vigente."
+    },
+    {
+        "Pregunta": "¿Qué sucede en caso de incumplimiento del pago del crédito educativo?",
+        "Respuesta": "El incumplimiento conlleva la aplicación de intereses moratorios y compensatorios, y otras consecuencias establecidas en el Reglamento."
+    },
+    {
+        "Pregunta": "¿Cuáles son las consecuencias para los estudiantes con deuda de créditos matriculados no financiados?",
+        "Respuesta": "No recibirán constancias o certificados del ciclo no pagado, no podrán matricularse en el ciclo siguiente hasta cancelar su deuda, y UTEC puede informar a las Centrales de Riesgo."
+    },
+    {
+        "Pregunta": "¿Qué sucede si se solicita el retiro del ciclo académico o la reserva de matrícula?",
+        "Respuesta": "Se pierde el derecho al crédito educativo si no se tramita el reingreso dentro de los siguientes 2 ciclos académicos."
+    },
+    {
+        "Pregunta": "¿Qué ocurre si un estudiante es retirado de UTEC o hace abandono?",
+        "Respuesta": "Pierde el derecho al crédito educativo."
+    },
+    {
+        "Pregunta": "¿Qué sucede si un estudiante es sancionado por infracción grave o muy grave?",
+        "Respuesta": "Pierde el derecho al crédito educativo."
+    },
+    {
+        "Pregunta": "¿Qué implica incumplir alguna condición del crédito educativo?",
+        "Respuesta": "Conlleva la pérdida del derecho al crédito educativo."
+    },
+    {
+        "Pregunta": "¿Cómo se realiza el pago en caso de pérdida del crédito educativo?",
+        "Respuesta": "Debe realizarse dentro de un plazo máximo de 6 meses o 10 días hábiles, dependiendo de la causal específica."
+    },
+    {
+        "Pregunta": "¿Qué consecuencias enfrenta un estudiante por incumplimiento del pago del crédito educativo?",
+        "Respuesta": "Aplicación de intereses moratorios y compensatorios, así como otras consecuencias establecidas en el Reglamento."
+    },
+    {
+        "Pregunta": "¿Existe alguna excepción para estudiantes que han perdido el crédito educativo?",
+        "Respuesta": "Pueden solicitar un plazo adicional para la devolución del crédito, sujeto a la aprobación de UTEC."
+    },
+    {
+        "Pregunta": "¿Cómo se gestionan los cambios en la modalidad del crédito educativo?",
+        "Respuesta": "El estudiante puede solicitar cambios cada ciclo académico, sujetos a evaluación e inapelables por parte de UTEC."
+    },
+    {
+        "Pregunta": "¿Qué sucede en caso de suspensión del crédito educativo?",
+        "Respuesta": "Procede a solicitud del estudiante o por decisión de UTEC y se presenta en casos como mejora en la condición económica, desaprobación de asignaturas o retiros por salud."
+    },
+    {
+        "Pregunta": "¿Cómo se maneja la reactivación del crédito educativo?",
+        "Respuesta": "El estudiante cuyo crédito fue suspendido puede solicitar su reactivación, sujeta a la aprobación de UTEC."
+    }, 
+    {
+        "Pregunta": "¿Qué sucede si se detecta falsificación o inexactitud en la información proporcionada?",
+        "Respuesta": "Constituye un incumplimiento de las condiciones del crédito educativo, pudiendo aplicarse la pérdida del crédito y otras acciones legales."
+    },
+    {
+        "Pregunta": "¿Qué es necesario para garantizar el crédito educativo?",
+        "Respuesta": "Se requiere la garantía solidaria irrevocable e ilimitada de dos garantes con solvencia económica comprobable."
+    },
+    {
+        "Pregunta": "¿Cómo deben proceder los obligados en caso de cambios personales o patrimoniales?",
+        "Respuesta": "Deben informar a UTEC cualquier cambio relevante en un plazo de 15 días hábiles; el incumplimiento puede resultar en la pérdida del crédito."
+    },
+    {
+        "Pregunta": "¿Cuáles son las obligaciones para mantener el beneficio del crédito educativo?",
+        "Respuesta": "El estudiante debe aprobar todas las asignaturas de cada ciclo, mantener buena conducta y cumplir con las obligaciones establecidas."
+    },
+    {
+        "Pregunta": "¿Cómo se determina el valor del crédito educativo otorgado?",
+        "Respuesta": "El valor se define por el porcentaje otorgado respecto al valor de los créditos académicos y se actualiza según las modificaciones de UTEC."
+    },
+    {
+        "Pregunta": "¿Qué responsabilidad tienen los obligados con los créditos matriculados no financiados?",
+        "Respuesta": "Deben pagar puntualmente el monto no incluido en el crédito; de lo contrario, se aplican las consecuencias del Reglamento de Pensiones."
+    },
+    {
+        "Pregunta": "¿Cómo se comprometen los obligados a devolver el crédito educativo?",
+        "Respuesta": "Deben devolver el crédito según el valor actualizado del crédito académico a la fecha de pago, dentro de los plazos máximos establecidos."
+    },
+    {
+        "Pregunta": "¿Se permiten pagos voluntarios para amortizar la deuda del crédito educativo?",
+        "Respuesta": "Sí, se pueden realizar pagos voluntarios en cualquier momento y por cualquier importe, considerando el valor del crédito académico vigente."
+    },
+    {
+        "Pregunta": "¿Cuáles son las consecuencias del incumplimiento de pago del crédito educativo?",
+        "Respuesta": "Se aplican intereses moratorios y compensatorios, y otras consecuencias según lo establecido en el Reglamento."
+    },
+    {
+        "Pregunta": "¿Qué ocurre si un estudiante con deuda de créditos no financiados no paga?",
+        "Respuesta": "No recibirá constancias o certificados del ciclo no pagado, no podrá matricularse en el siguiente ciclo y UTEC puede informar a las Centrales de Riesgo."
+    },
+    {
+        "Pregunta": "¿Qué sucede si un estudiante con crédito educativo solicita un cambio de modalidad?",
+        "Respuesta": "Puede solicitarlo cada ciclo académico, sujeto a evaluación e inapelable por parte de UTEC."
+    },
+    {
+        "Pregunta": "¿Qué ocurre en caso de suspensión del crédito educativo?",
+        "Respuesta": "Se presenta en casos como mejora en la condición económica, desaprobación de asignaturas, o retiros por salud, y es sujeto a criterio de UTEC."
+    },
+    {
+        "Pregunta": "¿Cómo se maneja la reactivación del crédito educativo?",
+        "Respuesta": "El estudiante puede solicitar la reactivación del crédito suspendido, sujeta a la aprobación de UTEC."
+    },
+    {
+        "Pregunta": "¿Qué es la recuperación de crédito educativo?",
+        "Respuesta": "Si un estudiante suspendido por desaprobación de asignaturas demuestra buen rendimiento académico, puede solicitar la recuperación del crédito."
+    },
+    {
+        "Pregunta": "¿Cómo se realizan las evaluaciones económicas periódicas a los beneficiarios del crédito educativo?",
+        "Respuesta": "UTEC se reserva el derecho de efectuar estas evaluaciones y puede modificar, suspender o dejar sin efecto los créditos otorgados."
+    },
+    {
+        "Pregunta": "¿Cuáles son las causales de pérdida del crédito educativo?",
+        "Respuesta": "Incluyen solicitar retiro del ciclo académico o de UTEC, hacer abandono, ser sancionado por infracciones graves, o incumplir alguna condición del crédito."
+    },
+    {
+        "Pregunta": "¿Cómo se realiza el pago ante la pérdida del crédito educativo?",
+        "Respuesta": "La devolución total del crédito perdido se realiza dentro de 6 meses o 10 días hábiles, según la causal específica."
+    },
+    {
+        "Pregunta": "¿Qué sucede en caso de incumplimiento del pago del crédito educativo?",
+        "Respuesta": "Se aplicarán intereses moratorios y compensatorios, y otras consecuencias según el Reglamento."
+    },
+    {
+        "Pregunta": "¿Existe alguna excepción para estudiantes que han perdido el crédito educativo?",
+        "Respuesta": "Pueden solicitar un plazo adicional para la devolución del crédito, sujeto a la aprobación de UTEC."
+    },
+    {
+        "Pregunta": "¿Qué se entiende por pagos debidos en el contexto del crédito educativo?",
+        "Respuesta": "Son aquellos realizados en las cuentas bancarias de UTEC y tienen carácter cancelatorio sin reajustes posteriores."
+    }
+
+]

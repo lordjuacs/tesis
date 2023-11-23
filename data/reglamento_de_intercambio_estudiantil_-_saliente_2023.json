@@ -1,0 +1,123 @@
+[
+    {
+      "pregunta": "¿Cuál es el objetivo del Reglamento de Intercambio Estudiantil?",
+      "respuesta": "Establecer y regular las normas y procedimientos para el programa de intercambio estudiantil dirigido a estudiantes de pregrado que realizan un semestre de estudios en instituciones extranjeras."
+    },
+    {
+      "pregunta": "¿Quiénes deben cumplir con las disposiciones del Reglamento de Intercambio Estudiantil?",
+      "respuesta": "Los estudiantes de pregrado de la UTEC que deseen realizar un semestre de estudios en instituciones extranjeras."
+    },
+    {
+      "pregunta": "¿Qué se entiende por 'Estudiantes' según el reglamento?",
+      "respuesta": "Son los estudiantes de pregrado de la UTEC."
+    },
+    {
+      "pregunta": "¿Qué son 'Estudiantes libres' en el contexto del intercambio estudiantil?",
+      "respuesta": "Estudiantes de pregrado de la UTEC que desean realizar un intercambio estudiantil en instituciones extranjeras con las que la UTEC no tiene convenio."
+    },
+    {
+      "pregunta": "¿Qué define el término 'UTEC' en el reglamento?",
+      "respuesta": "UTEC es la Universidad de Ingeniería y Tecnología."
+    },
+    {
+      "pregunta": "¿Qué es un 'Convenio' según el reglamento?",
+      "respuesta": "Un acuerdo entre dos o más instituciones extranjeras para fortalecer la formación académica de los estudiantes."
+    },
+    {
+      "pregunta": "¿Cómo se define el 'Intercambio estudiantil' en el reglamento?",
+      "respuesta": "El desplazamiento de estudiantes de pregrado de la UTEC para realizar un semestre de estudios en instituciones extranjeras."
+    },
+    {
+      "pregunta": "¿Qué es el 'Reconocimiento de créditos' en el contexto del intercambio estudiantil?",
+      "respuesta": "La aceptación de créditos obtenidos en instituciones extranjeras, computados para obtener el grado o título en la institución de origen."
+    },
+    {
+      "pregunta": "¿Cuál es la finalidad del programa de intercambio estudiantil?",
+      "respuesta": "Estimular en los estudiantes el conocimiento global, con un enfoque internacional en su carrera profesional, y cultivar valores de solidaridad, comprensión, tolerancia y respeto por diferentes culturas."
+    },
+    {
+      "pregunta": "¿Cuál es la duración máxima del intercambio estudiantil?",
+      "respuesta": "El intercambio estudiantil se desarrolla como máximo durante un semestre de estudios."
+    },
+    {
+        "pregunta": "¿Qué debe hacer un estudiante antes del intercambio estudiantil?",
+        "respuesta": "Antes del intercambio, el estudiante debe completar su postulación en el sistema en línea, cargar documentos personales, seleccionar tres alternativas de instituciones extranjeras, y solicitar la recomendación de un docente UTEC."
+      },
+      {
+        "pregunta": "¿Qué ocurre si un estudiante no asiste a la entrevista programada por el comité de internacionalización?",
+        "respuesta": "Si un estudiante no asiste a la entrevista, quedará fuera del proceso de selección para el programa de intercambio estudiantil del semestre en cuestión."
+      },
+      {
+        "pregunta": "¿Cuál es el plazo para aceptar o rechazar una vacante de intercambio?",
+        "respuesta": "El estudiante tiene un plazo máximo de 5 días hábiles para aceptar o rechazar la vacante de intercambio estudiantil."
+      },
+      {
+        "pregunta": "¿Qué responsabilidad tiene el estudiante nominado por la UTEC?",
+        "respuesta": "El estudiante nominado es responsable de cumplir con los procedimientos y requisitos de la institución extranjera y de realizar trámites como la visa y compra de seguro."
+      },
+      {
+        "pregunta": "¿Qué seguro debe adquirir el estudiante para el intercambio estudiantil?",
+        "respuesta": "El estudiante debe adquirir un seguro de salud y accidentes con cobertura internacional que incluya repatriación, vigente durante todo el periodo del intercambio."
+      },
+      {
+        "pregunta": "¿Cuál es la carga mínima de créditos que un estudiante debe cursar en la institución extranjera?",
+        "respuesta": "El estudiante debe cursar una carga mínima equivalente a 16 créditos UTEC en la institución extranjera, excluyendo cursos de idiomas."
+      },
+      {
+        "pregunta": "¿Qué es el acuerdo de estudios y quién debe aprobarlo?",
+        "respuesta": "El acuerdo de estudios es un documento que establece los cursos que el estudiante cursará en la institución extranjera, y debe ser aprobado por el director del departamento académico y el responsable del programa de intercambio."
+      },
+      {
+        "pregunta": "¿Qué debe hacer un estudiante si necesita modificar su acuerdo de estudios?",
+        "respuesta": "Si necesita modificar su acuerdo de estudios, el estudiante debe coordinar con la UTEC, siguiendo un proceso específico y dentro de un plazo máximo de 15 días hábiles."
+      },
+      {
+        "pregunta": "¿Qué responsabilidades tiene el estudiante durante su intercambio estudiantil?",
+        "respuesta": "Durante el intercambio, el estudiante es responsable de notificar su llegada, cubrir todos los gastos asociados, respetar las normas de la institución extranjera, y mantener una conducta intachable."
+      },
+      {
+        "pregunta": "¿Qué sucede si un estudiante comete un acto ilícito durante el intercambio estudiantil?",
+        "respuesta": "Si un estudiante comete un acto ilícito durante el intercambio, la UTEC y la institución extranjera se deslindarán de toda responsabilidad, la cual recaerá exclusivamente sobre el estudiante."
+      },
+      {
+        "pregunta": "¿Qué debe presentar el estudiante al responsable del programa de intercambio estudiantil de UTEC?",
+        "respuesta": "El estudiante debe presentar todos los documentos y formatos solicitados que forman parte de su proceso de aplicación al responsable del programa de intercambio estudiantil de UTEC."
+      },
+      {
+        "pregunta": "¿Qué debe hacer el estudiante al llegar a la institución extranjera?",
+        "respuesta": "El estudiante debe notificar su llegada a la institución extranjera al responsable del programa de intercambio estudiantil de UTEC."
+      },
+      {
+        "pregunta": "¿Qué gastos debe cubrir el estudiante durante el intercambio estudiantil?",
+        "respuesta": "El estudiante es responsable de cubrir todos los gastos derivados del programa, incluyendo solicitud de visa, pasajes, seguro de salud y accidentes, alojamiento, materiales académicos, y otros gastos adicionales."
+      },
+      {
+        "pregunta": "¿Qué debe hacer el estudiante si necesita modificar su acuerdo de estudios durante el intercambio?",
+        "respuesta": "Si necesita modificar su acuerdo de estudios, el estudiante debe notificar al responsable del programa en UTEC para indicarle el proceso y hacerlo inmediatamente después de la matrícula en la institución extranjera, dentro de un plazo de 15 días hábiles."
+      },
+      {
+        "pregunta": "¿Qué responsabilidades adicionales tiene el estudiante durante su estancia en la institución extranjera?",
+        "respuesta": "Además de respetar las normas institucionales de la UTEC, el estudiante debe cumplir todas las normas vigentes en la institución extranjera y del país anfitrión."
+      },
+      {
+        "pregunta": "¿Qué debe hacer el estudiante al concluir su intercambio estudiantil?",
+        "respuesta": "Al concluir el intercambio, el estudiante debe retornar a su país, salvo autorización de la UTEC para extender su estancia por fines académicos."
+      },
+      {
+        "pregunta": "¿Cuáles son los requisitos para la convalidación de créditos después del intercambio?",
+        "respuesta": "Para la convalidación de créditos, el estudiante debe haber aprobado todos los cursos en la institución extranjera, cumplir con la calificación mínima exigida, y haber gestionado el acuerdo o modificación de acuerdo de estudios."
+      },
+      {
+        "pregunta": "¿Qué debe hacer el estudiante con los sílabos de los cursos aprobados en la institución extranjera?",
+        "respuesta": "El estudiante debe presentar los sílabos de los cursos aprobados en la institución extranjera, los cuales deben estar reflejados en el acuerdo o modificación de acuerdo de estudios de la UTEC."
+      },
+      {
+        "pregunta": "¿Qué debe hacer el estudiante con los documentos emitidos en un idioma diferente al inglés o español?",
+        "respuesta": "Si los documentos como el certificado de estudios o sílabos están en un idioma diferente al inglés o español, el estudiante debe realizar la traducción y adjuntar ambos documentos (original y traducido) a su expediente para el reconocimiento."
+      },
+      {
+        "pregunta": "¿Qué se espera del estudiante después de su experiencia de intercambio?",
+        "respuesta": "Después del intercambio, el estudiante debe realizar un informe detallado de su experiencia según los lineamientos y plazos de la UTEC, y puede ser convocado para colaborar en la promoción del programa a futuros estudiantes."
+      }
+  ]
+  

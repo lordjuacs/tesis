@@ -1,0 +1,202 @@
+[
+  {
+    "pregunta": "¿Cuál es el objeto del Reglamento de Admisión?",
+    "respuesta": "Regular el proceso de admisión a Pregrado en la Universidad de Ingeniería y Tecnología."
+  },
+  {
+    "pregunta": "¿Quiénes deben cumplir las disposiciones del Reglamento?",
+    "respuesta": "Todos los postulantes, el personal administrativo y autoridades de UTEC."
+  },
+  {
+    "pregunta": "¿Qué se entiende por 'Postulante' según el reglamento?",
+    "respuesta": "Persona inscrita en alguna modalidad de admisión establecida por UTEC."
+  },
+  {
+    "pregunta": "¿Cuál es la definición de 'Ingresante'?",
+    "respuesta": "Postulante que aprueba todas las evaluaciones y ocupa una vacante."
+  },
+  {
+    "pregunta": "¿Qué significa 'Incorporado' en el contexto del reglamento?",
+    "respuesta": "Ingresante que confirma su vacante y completa la documentación requerida."
+  },
+  {
+    "pregunta": "¿Cómo se define a un 'Estudiante UTEC'?",
+    "respuesta": "Incorporado que ya cuenta con un horario de clases establecido."
+  },
+  {
+    "pregunta": "¿Qué representa UTEC en el reglamento?",
+    "respuesta": "La Universidad de Ingeniería y Tecnología."
+  },
+  {
+    "pregunta": "¿Cuál es la finalidad del proceso de admisión?",
+    "respuesta": "Convocar, informar, inscribir, evaluar y seleccionar postulantes con aptitud vocacional."
+  },
+  {
+    "pregunta": "¿Quién aprueba el número de vacantes por carrera?",
+    "respuesta": "El Director General Académico."
+  },
+  {
+    "pregunta": "¿Qué entidad está a cargo del proceso de admisión?",
+    "respuesta": "La Oficina de Procesos Académicos de Admisión."
+  },
+  {
+    "pregunta": "¿Cuáles son las modalidades de admisión que ofrece UTEC?",
+    "respuesta": "Examen de admisión, admisión por traslado externo y admisión por convenio internacional."
+  },
+  {
+    "pregunta": "¿Qué requisitos debe cumplir un postulante por traslado externo?",
+    "respuesta": "Haber cursado al menos dos semestres académicos en otra universidad y no haber sido separado por motivos disciplinarios."
+  },
+  {
+    "pregunta": "¿En qué consiste la admisión por convenio internacional?",
+    "respuesta": "Es una modalidad para postulantes de universidades extranjeras con las que UTEC tiene convenio."
+  },
+  {
+    "pregunta": "¿Cuál es el proceso para inscribirse en el examen de admisión?",
+    "respuesta": "Completar el formulario de inscripción y pagar los derechos correspondientes."
+  },
+  {
+    "pregunta": "¿Qué sucede si un postulante proporciona datos falsos?",
+    "respuesta": "Se anula su postulación o matrícula, y puede ser sancionado según el reglamento."
+  },
+  {
+    "pregunta": "¿Puede un postulante que ha sido expulsado por motivos disciplinarios postular nuevamente?",
+    "respuesta": "No, no puede postular nuevamente a UTEC."
+  },
+  {
+    "pregunta": "¿Qué pasa si un postulante no cumple con los requisitos de salud exigidos?",
+    "respuesta": "Puede ser considerado no apto para la admisión."
+  },
+  {
+    "pregunta": "¿Quién determina las fechas y horarios de los exámenes de admisión?",
+    "respuesta": "La Oficina de Procesos Académicos de Admisión."
+  },
+  {
+    "pregunta": "¿Qué sucede en caso de empate en la última vacante?",
+    "respuesta": "Se toman en cuenta los criterios de desempate establecidos en el reglamento."
+  },
+  {
+    "pregunta": "¿Qué documentos debe presentar un ingresante para la incorporación?",
+    "respuesta": "Certificados de estudios, DNI o pasaporte, y otros documentos solicitados por UTEC."
+  },
+  {
+    "pregunta": "¿Cuál es la duración del proceso de admisión?",
+    "respuesta": "Desde la convocatoria hasta la publicación de resultados."
+  },
+  {
+    "pregunta": "¿Cómo se publican los resultados del proceso de admisión?",
+    "respuesta": "A través de la página web de UTEC y/o medios que determine la universidad."
+  },
+  {
+    "pregunta": "¿Qué es una 'vacante' según el reglamento?",
+    "respuesta": "Es el número de puestos disponibles para nuevos estudiantes en cada carrera."
+  },
+  {
+    "pregunta": "¿Cómo se calcula el puntaje en el examen de admisión?",
+    "respuesta": "Según los criterios establecidos por la Oficina de Procesos Académicos de Admisión."
+  },
+  {
+    "pregunta": "¿Es posible apelar los resultados del examen de admisión?",
+    "respuesta": "Sí, siguiendo el procedimiento establecido en el reglamento."
+  },
+  {
+    "pregunta": "¿Qué pasa si un postulante no se presenta al examen de admisión?",
+    "respuesta": "Se considera como no apto y pierde su derecho a la vacante."
+  },
+  {
+    "pregunta": "¿Puede un postulante reservar su vacante para otro ciclo académico?",
+    "respuesta": "Sujeto a las condiciones y procedimientos establecidos por UTEC."
+  },
+  {
+    "pregunta": "¿Qué sucede si un ingresante no cumple con el proceso de matrícula?",
+    "respuesta": "Pierde su derecho a la vacante y debe postular nuevamente."
+  },
+  {
+    "pregunta": "¿Cómo se manejan los casos de empate en el puntaje de admisión?",
+    "respuesta": "Se aplican criterios adicionales definidos en el reglamento."
+  },
+  {
+    "pregunta": "¿Qué criterios se consideran para el traslado externo?",
+    "respuesta": "Rendimiento académico, motivos del traslado y cupos disponibles en la carrera."
+  }, 
+  {
+    "pregunta": "¿Qué sucede si un ingresante no entrega la documentación requerida a tiempo?",
+    "respuesta": "Puede perder su vacante y ser reemplazado por otro postulante."
+  },
+  {
+    "pregunta": "¿Cuáles son las sanciones por cometer fraude en el examen de admisión?",
+    "respuesta": "Anulación de la postulación y prohibición de postular en futuros procesos."
+  },
+  {
+    "pregunta": "¿Existe alguna disposición especial para postulantes con discapacidad?",
+    "respuesta": "Sí, se consideran medidas de acceso y adecuaciones necesarias."
+  },
+  {
+    "pregunta": "¿Cómo se manejan las quejas y reclamos en el proceso de admisión?",
+    "respuesta": "A través de procedimientos establecidos por la universidad."
+  },
+  {
+    "pregunta": "¿Qué criterios se utilizan para la selección de postulantes?",
+    "respuesta": "Capacidad académica, aptitud vocacional y cumplimiento de requisitos."
+  },
+  {
+    "pregunta": "¿Qué ocurre si un postulante incumple las normas de conducta durante el examen?",
+    "respuesta": "Puede ser retirado del examen y sancionado según el reglamento."
+  },
+  {
+    "pregunta": "¿Cómo se determina el número de vacantes por carrera?",
+    "respuesta": "En función de la capacidad académica y la infraestructura disponible."
+  },
+  {
+    "pregunta": "¿Qué procedimiento sigue un postulante para solicitar una revisión de examen?",
+    "respuesta": "Presentar una solicitud formal según lo establecido en el reglamento."
+  },
+  {
+    "pregunta": "¿Qué sucede si un postulante no aprueba el examen de admisión?",
+    "respuesta": "No podrá ingresar a UTEC en ese ciclo y deberá postular nuevamente si lo desea."
+  },
+  {
+    "pregunta": "¿Cuáles son las disposiciones finales del reglamento?",
+    "respuesta": "Normas y cláusulas que regulan aspectos no contemplados en los apartados anteriores."
+  }, 
+  {
+    "pregunta": "¿Qué tipos de becas ofrece UTEC para nuevos estudiantes?",
+    "respuesta": "Becas por mérito académico y becas por necesidad económica."
+  },
+  {
+    "pregunta": "¿Cómo se realiza el proceso de selección para las becas?",
+    "respuesta": "Mediante la evaluación de méritos académicos y la situación económica del postulante."
+  },
+  {
+    "pregunta": "¿Cuál es el criterio para mantener una beca durante la carrera?",
+    "respuesta": "Mantener un rendimiento académico satisfactorio y cumplir con los requisitos de la beca."
+  },
+  {
+    "pregunta": "¿Se puede cambiar de carrera una vez ingresado a UTEC?",
+    "respuesta": "Sí, pero está sujeto a las políticas de cambio de carrera y disponibilidad de vacantes."
+  },
+  {
+    "pregunta": "¿Qué sucede con la matrícula si un estudiante decide retirarse del semestre?",
+    "respuesta": "Depende de las políticas de retiro de la universidad y puede afectar su historial académico."
+  },
+  {
+    "pregunta": "¿Hay límites de edad para postular a UTEC?",
+    "respuesta": "No, UTEC no establece límites de edad para sus postulantes."
+  },
+  {
+    "pregunta": "¿Qué recursos de aprendizaje ofrece UTEC a sus estudiantes?",
+    "respuesta": "Biblioteca, laboratorios especializados, tutorías y acceso a plataformas educativas."
+  },
+  {
+    "pregunta": "¿Cuál es la política de UTEC respecto al acoso y la discriminación?",
+    "respuesta": "UTEC tiene una política de cero tolerancia hacia el acoso y la discriminación."
+  },
+  {
+    "pregunta": "¿Cómo pueden los estudiantes internacionales postular a UTEC?",
+    "respuesta": "A través de la modalidad de admisión por convenio internacional o cumpliendo los requisitos generales de admisión."
+  },
+  {
+    "pregunta": "¿Ofrece UTEC programas de intercambio con otras universidades?",
+    "respuesta": "Sí, UTEC tiene convenios de intercambio con varias universidades internacionales."
+  }
+]

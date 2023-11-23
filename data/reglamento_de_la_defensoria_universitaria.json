@@ -1,0 +1,123 @@
+[
+    {
+        "pregunta": "¿Cuál es el objetivo del Reglamento de la Defensoría Universitaria de la UTEC?",
+        "respuesta": "El Reglamento tiene como finalidad formar una conciencia y cultura de derechos y respeto a las normas que garantizan igualdad y justicia para todos los miembros de la comunidad universitaria de la UTEC."
+    },
+    {
+        "pregunta": "¿A quiénes se aplica el Reglamento de la Defensoría Universitaria?",
+        "respuesta": "El Reglamento se aplica a los miembros de la comunidad universitaria: estudiantes, administrativos, docentes, apoyos de docentes e investigadores de UTEC, dentro y fuera del campus."
+    },
+    {
+        "pregunta": "¿Qué se entiende por 'Administrativos' según el Reglamento?",
+        "respuesta": "Administrativos son el personal no docente que ejecuta la gestión administrativa de UTEC."
+    },
+    {
+        "pregunta": "¿Quiénes son considerados 'Apoyo docente' en UTEC?",
+        "respuesta": "Apoyo docente incluye a asistentes de enseñanza, técnicos de laboratorio, responsables de laboratorio y ayudantes de cátedra o laboratorio, entre otros establecidos en el Reglamento Docente de UTEC."
+    },
+    {
+        "pregunta": "¿Cómo se define a los 'Estudiantes' en el Reglamento?",
+        "respuesta": "Los estudiantes son alumnos matriculados en UTEC, ya sean regulares o no, y que se encuentren bajo modalidad presencial, semipresencial o a distancia."
+    },
+    {
+        "pregunta": "¿Qué funciones tiene el Defensor Universitario según el Reglamento?",
+        "respuesta": "El Defensor Universitario tiene la función de velar por el respeto a los derechos de los miembros de la comunidad universitaria, promover la solución de conflictos y supervisar la correcta aplicación de las normas universitarias."
+    },
+    {
+        "pregunta": "¿Cómo se elige al Defensor Universitario en la UTEC?",
+        "respuesta": "El Defensor Universitario es elegido por el Consejo Universitario, de una terna propuesta por el Rector, y su mandato dura tres años, pudiendo ser reelegido."
+    },
+    {
+        "pregunta": "¿Qué requisitos debe cumplir el Defensor Universitario?",
+        "respuesta": "El Defensor Universitario debe ser una persona de reconocida solvencia moral, con grado de magíster o doctor, y tener experiencia en temas relacionados con derechos humanos o defensoría."
+    },
+    {
+        "pregunta": "¿Cuál es el procedimiento para presentar una queja ante la Defensoría Universitaria?",
+        "respuesta": "Las quejas se presentan por escrito ante la Defensoría Universitaria, especificando los hechos y las pruebas. El Defensor Universitario debe acusar recibo y resolver en un plazo no mayor a 30 días hábiles."
+    },
+    {
+        "pregunta": "¿Qué ocurre si el Defensor Universitario incumple sus funciones?",
+        "respuesta": "En caso de incumplimiento de sus funciones, el Defensor Universitario puede ser removido por el Consejo Universitario, previa evaluación y recomendación del Rector."
+    },
+    {
+        "pregunta": "¿Cuáles son las obligaciones de los miembros de la comunidad universitaria según el Reglamento?",
+        "respuesta": "Las obligaciones incluyen respetar los derechos humanos, las normas universitarias y los principios éticos, y colaborar con el Defensor Universitario en sus investigaciones."
+    },
+    {
+        "pregunta": "¿Qué tipo de acciones pueden reportarse a la Defensoría Universitaria?",
+        "respuesta": "Se pueden reportar acciones que violen los derechos de los miembros de la comunidad universitaria o que vayan en contra de las normas y principios de la UTEC."
+    },
+    {
+        "pregunta": "¿Cómo se garantiza la confidencialidad en los procesos de la Defensoría Universitaria?",
+        "respuesta": "La Defensoría garantiza la confidencialidad y reserva de la información durante sus procesos, protegiendo la identidad de los involucrados."
+    },
+    {
+        "pregunta": "¿Qué sucede si hay un conflicto de intereses con el Defensor Universitario?",
+        "respuesta": "En caso de conflicto de intereses, el Defensor debe abstenerse de intervenir y el Consejo Universitario designará un defensor ad hoc."
+    },
+    {
+        "pregunta": "¿Qué recursos tiene el Defensor Universitario para cumplir sus funciones?",
+        "respuesta": "El Defensor Universitario cuenta con los recursos humanos, materiales y financieros asignados por la UTEC para el cumplimiento de sus funciones."
+    },
+    {
+        "pregunta": "¿Cuál es el proceso de remoción del Defensor Universitario?",
+        "respuesta": "El proceso de remoción se inicia por solicitud del Rector o un tercio de los miembros del Consejo Universitario, y requiere la aprobación de la mayoría del Consejo."
+    },
+    {
+        "pregunta": "¿Cómo se manejan las quejas contra el Defensor Universitario?",
+        "respuesta": "Las quejas contra el Defensor Universitario se presentan ante el Rector, quien las evaluará y, de ser necesario, las elevará al Consejo Universitario."
+    },
+    {
+        "pregunta": "¿Qué papel juega el Rector en el procedimiento de remoción del Defensor?",
+        "respuesta": "El Rector puede iniciar el procedimiento de remoción y debe evaluar las quejas contra el Defensor antes de elevarlas al Consejo Universitario."
+    },
+    {
+        "pregunta": "¿Qué responsabilidades tiene el Consejo Universitario respecto al Defensor Universitario?",
+        "respuesta": "El Consejo Universitario es responsable de elegir y, en su caso, remover al Defensor Universitario, así como de evaluar su desempeño."
+    },
+    {
+        "pregunta": "¿Qué medidas se toman si se violan los principios éticos en la UTEC?",
+        "respuesta": "Las violaciones a los principios éticos son investigadas y sancionadas según las normativas internas de la UTEC, con la posibilidad de intervención del Defensor Universitario."
+    },
+    {
+        "pregunta": "¿Cómo se resuelven los conflictos de interpretación del Reglamento?",
+        "respuesta": "Los conflictos de interpretación del Reglamento son resueltos por el Consejo Universitario."
+    },
+    {
+        "pregunta": "¿Qué procedimientos deben seguirse para modificar el Reglamento?",
+        "respuesta": "Las modificaciones al Reglamento requieren la aprobación del Consejo Universitario y deben seguir los procedimientos establecidos en la normativa universitaria."
+    },
+    {
+        "pregunta": "¿Cuál es la función del Consejo Universitario en relación con la Defensoría?",
+        "respuesta": "El Consejo Universitario supervisa la gestión de la Defensoría, aprueba su presupuesto y evalúa el informe anual del Defensor Universitario."
+    },
+    {
+        "pregunta": "¿Cómo se promueve la transparencia en la gestión de la Defensoría?",
+        "respuesta": "La transparencia se promueve mediante la publicación del informe anual de actividades de la Defensoría y el acceso a información relevante por parte de la comunidad universitaria."
+    },
+    {
+        "pregunta": "¿Qué papel juegan los estudiantes en la Defensoría Universitaria?",
+        "respuesta": "Los estudiantes pueden presentar quejas, sugerencias y participar en encuestas para mejorar el servicio de la Defensoría."
+    },
+    {
+        "pregunta": "¿Cómo se asegura la imparcialidad del Defensor Universitario?",
+        "respuesta": "La imparcialidad se asegura mediante la independencia funcional y administrativa del Defensor Universitario respecto a otras autoridades de la UTEC."
+    },
+    {
+        "pregunta": "¿Qué tipo de informes debe presentar el Defensor Universitario?",
+        "respuesta": "El Defensor Universitario debe presentar informes anuales de gestión y otros informes solicitados por el Consejo Universitario o el Rector."
+    },
+    {
+        "pregunta": "¿Cómo se manejan las emergencias o situaciones críticas en la UTEC?",
+        "respuesta": "Las emergencias o situaciones críticas son manejadas por el Comité de Crisis, con la posible intervención del Defensor Universitario para asegurar el respeto a los derechos."
+    },
+    {
+        "pregunta": "¿Qué medidas preventivas se promueven en la UTEC?",
+        "respuesta": "Se promueven medidas de prevención de conflictos, respeto a los derechos y fomento de la cultura de paz y diálogo."
+    },
+    {
+        "pregunta": "¿Cómo se fomenta la cultura de derechos en la UTEC?",
+        "respuesta": "La cultura de derechos se fomenta a través de actividades formativas, campañas de sensibilización y la promoción de buenas prácticas universitarias."
+    }
+
+]
